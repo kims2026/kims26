@@ -1,0 +1,4093 @@
+{
+  "zones": [
+    {
+      "id": "견과",
+      "name": "양곡",
+      "prod": "양곡",
+      "type": "아일랜드",
+      "pri": "",
+      "note": "",
+      "color": "cn3",
+      "col": 16,
+      "row": 8,
+      "cols": 3,
+      "rows": 2
+    },
+    {
+      "id": "as5-1-3",
+      "name": "(5-1)상품",
+      "prod": "",
+      "type": "아일랜드",
+      "pri": "__custom__",
+      "note": "보름 이벤트 핵심",
+      "color": "cn3",
+      "col": 14,
+      "row": 9,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "버섯",
+      "name": "견과",
+      "prod": "견과",
+      "type": "파렛트",
+      "pri": "",
+      "note": "",
+      "color": "cn3",
+      "col": 11,
+      "row": 4,
+      "cols": 2,
+      "rows": 1
+    },
+    {
+      "id": "건어물",
+      "name": "견과",
+      "prod": "견과",
+      "type": "파렛트",
+      "pri": "",
+      "note": "",
+      "color": "cn3",
+      "col": 10,
+      "row": 4,
+      "cols": 1,
+      "rows": 2
+    },
+    {
+      "id": "친환경채소",
+      "name": "고구마기계",
+      "prod": "고구마기계",
+      "type": "냉장쇼케이스",
+      "pri": "",
+      "note": "",
+      "color": "cw",
+      "col": 4,
+      "row": 8,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "한끼채소",
+      "name": "건식",
+      "prod": "양곡",
+      "type": "파렛트",
+      "pri": "",
+      "note": "쇼케이스 전용",
+      "color": "cn6",
+      "col": 17,
+      "row": 4,
+      "cols": 2,
+      "rows": 2
+    },
+    {
+      "id": "계란상단",
+      "name": "채소",
+      "prod": "참송이",
+      "type": "냉장",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 7,
+      "row": 10,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "콩나물",
+      "name": "콩나물",
+      "prod": "콩나물",
+      "type": "냉장쇼케이스",
+      "pri": "pf",
+      "note": "",
+      "color": "cw",
+      "col": 21,
+      "row": 21,
+      "cols": 1,
+      "rows": 2
+    },
+    {
+      "id": "두부",
+      "name": "풀무원",
+      "prod": "두부",
+      "type": "오픈냉장",
+      "pri": "pf",
+      "note": "",
+      "color": "cw",
+      "col": 18,
+      "row": 23,
+      "cols": 2,
+      "rows": 1
+    },
+    {
+      "id": "계란중단",
+      "name": "기둥",
+      "prod": "",
+      "type": "냉장",
+      "pri": "",
+      "note": "",
+      "color": "cpillar",
+      "col": 15,
+      "row": 9,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "as5-1-2",
+      "name": "(5-1)상품",
+      "prod": "대추방울 토마토3종",
+      "type": "냉장쇼케이스",
+      "pri": "__custom__",
+      "note": "",
+      "color": "cn3",
+      "col": 13,
+      "row": 9,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "8키위",
+      "name": "양곡",
+      "prod": "양곡",
+      "type": "곤돌라",
+      "pri": "",
+      "note": "",
+      "color": "cn3",
+      "col": 12,
+      "row": 5,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "as4-1-1",
+      "name": "(4-1)핵심상품",
+      "prod": "토마토벌크",
+      "type": "오픈냉장",
+      "pri": "__custom__",
+      "note": "도면 토마토벌크 고정 자리",
+      "color": "cn5",
+      "col": 14,
+      "row": 12,
+      "cols": 2,
+      "rows": 1
+    },
+    {
+      "id": "6수입과일",
+      "name": "도정기",
+      "prod": "도정기",
+      "type": "벽부",
+      "pri": "",
+      "note": "",
+      "color": "cw",
+      "col": 15,
+      "row": 8,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "as3-1",
+      "name": "(3-1)핵심상품",
+      "prod": "토마토벌크",
+      "type": "오픈냉장",
+      "pri": "__custom__",
+      "note": "",
+      "color": "cn1",
+      "col": 10,
+      "row": 8,
+      "cols": 1,
+      "rows": 2
+    },
+    {
+      "id": "as8-3",
+      "name": "(8-3)상품",
+      "prod": "3 하우스감귤박스/방울토마토",
+      "type": "오픈냉장",
+      "pri": "__custom__",
+      "note": "감귤시즌:감귤 / 비시즌:방울토마토",
+      "color": "cn3",
+      "col": 13,
+      "row": 8,
+      "cols": 2,
+      "rows": 1
+    },
+    {
+      "id": "as2-1",
+      "name": "(2-1)핵심상품",
+      "prod": "",
+      "type": "평대",
+      "pri": "p2",
+      "note": "시즌전환: 만감류→오렌지→참외→수박/복숭아→포도/사과→감귤→만감류",
+      "color": "cn1",
+      "col": 10,
+      "row": 12,
+      "cols": 1,
+      "rows": 3
+    },
+    {
+      "id": "as1-1",
+      "name": "(1-1)핵심상품",
+      "prod": "",
+      "type": "평대",
+      "pri": "p1",
+      "note": "시즌전환: 만감류벌크→딸기→참외→수박→복숭아→포도→사과→감귤/딸기",
+      "color": "cn1",
+      "col": 10,
+      "row": 18,
+      "cols": 1,
+      "rows": 3
+    },
+    {
+      "id": "냉동과일",
+      "name": "냉동과일/야채",
+      "prod": "냉동과일/냉동채소",
+      "type": "냉동",
+      "pri": "pf",
+      "note": "",
+      "color": "cn6",
+      "col": 11,
+      "row": 23,
+      "cols": 2,
+      "rows": 1
+    },
+    {
+      "id": "as5-1-1",
+      "name": "(5-1)핵심상품",
+      "prod": "스테비아/대추방울 토마토",
+      "type": "벽부",
+      "pri": "__custom__",
+      "note": "",
+      "color": "cn1",
+      "col": 11,
+      "row": 9,
+      "cols": 2,
+      "rows": 1
+    },
+    {
+      "id": "as8-2",
+      "name": "(8-2)상품",
+      "prod": "채소/쌈채소",
+      "type": "벽부",
+      "pri": "__custom__",
+      "note": "",
+      "color": "cn3",
+      "col": 12,
+      "row": 8,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "as8-1",
+      "name": "(8-1)상품",
+      "prod": "냉동과일/야채",
+      "type": "평대",
+      "pri": "__custom__",
+      "note": "",
+      "color": "cn3",
+      "col": 11,
+      "row": 8,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "입구",
+      "name": "입구",
+      "prod": "입구",
+      "type": "입구",
+      "pri": "",
+      "note": "매장 메인 입구",
+      "color": "cw",
+      "col": 7,
+      "row": 17,
+      "cols": 1,
+      "rows": 6
+    },
+    {
+      "id": "바나나",
+      "name": "바나나",
+      "prod": "스위트마운틴바나나",
+      "type": "입구옆고정",
+      "pri": "pf",
+      "note": "52주 상시 고정",
+      "color": "cf",
+      "col": 7,
+      "row": 23,
+      "cols": 2,
+      "rows": 1
+    },
+    {
+      "id": "z1772063946547",
+      "name": "바나나",
+      "prod": "유기농/스위티오",
+      "type": "벽부",
+      "pri": "pf",
+      "note": "",
+      "color": "cf",
+      "col": 9,
+      "row": 23,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772063981046",
+      "name": "냉동과일",
+      "prod": "냉동블루베리",
+      "type": "냉동",
+      "pri": "pf",
+      "note": "",
+      "color": "cn6",
+      "col": 10,
+      "row": 23,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772064066930",
+      "name": "컵과일/소스류",
+      "prod": "컵과일/소스류/고급과일",
+      "type": "오픈냉장",
+      "pri": "pf",
+      "note": "",
+      "color": "cn4",
+      "col": 13,
+      "row": 23,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772064123854",
+      "name": "샐러드",
+      "prod": "샐러드",
+      "type": "오픈냉장",
+      "pri": "pf",
+      "note": "",
+      "color": "cn4",
+      "col": 14,
+      "row": 23,
+      "cols": 2,
+      "rows": 1
+    },
+    {
+      "id": "z1772064162076",
+      "name": "샐러드",
+      "prod": "허브 샐러드",
+      "type": "오픈냉장",
+      "pri": "pf",
+      "note": "",
+      "color": "cn4",
+      "col": 16,
+      "row": 23,
+      "cols": 2,
+      "rows": 1
+    },
+    {
+      "id": "z1772064214416",
+      "name": "씨제이",
+      "prod": "두부",
+      "type": "오픈냉장",
+      "pri": "pf",
+      "note": "",
+      "color": "cw",
+      "col": 20,
+      "row": 23,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772064231803",
+      "name": "청정원",
+      "prod": "두부",
+      "type": "오픈냉장",
+      "pri": "pf",
+      "note": "",
+      "color": "cw",
+      "col": 21,
+      "row": 23,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772064356709",
+      "name": "로컬",
+      "prod": "로컬",
+      "type": "오픈냉장",
+      "pri": "pf",
+      "note": "",
+      "color": "cn4",
+      "col": 21,
+      "row": 20,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772064386306",
+      "name": "계란",
+      "prod": "계란",
+      "type": "오픈냉장",
+      "pri": "pf",
+      "note": "",
+      "color": "cn6",
+      "col": 21,
+      "row": 19,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772064410914",
+      "name": "계란",
+      "prod": "계란",
+      "type": "오픈냉장",
+      "pri": "pf",
+      "note": "",
+      "color": "cn6",
+      "col": 21,
+      "row": 18,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772064430681",
+      "name": "계란",
+      "prod": "계란",
+      "type": "오픈냉장",
+      "pri": "pf",
+      "note": "",
+      "color": "cn6",
+      "col": 21,
+      "row": 17,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772064539132",
+      "name": "계란",
+      "prod": "계란",
+      "type": "오픈냉장",
+      "pri": "pf",
+      "note": "",
+      "color": "cn6",
+      "col": 21,
+      "row": 16,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772064557046",
+      "name": "계란",
+      "prod": "계란",
+      "type": "오픈냉장",
+      "pri": "pf",
+      "note": "",
+      "color": "cn6",
+      "col": 21,
+      "row": 15,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772064575298",
+      "name": "계란",
+      "prod": "계란",
+      "type": "오픈냉장",
+      "pri": "pf",
+      "note": "",
+      "color": "cn6",
+      "col": 21,
+      "row": 14,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772064695335",
+      "name": "기둥",
+      "prod": "",
+      "type": "벽부",
+      "pri": "",
+      "note": "",
+      "color": "cpillar",
+      "col": 21,
+      "row": 13,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772064747675",
+      "name": "야채",
+      "prod": "야채",
+      "type": "오픈냉장",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 21,
+      "row": 12,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772065043392",
+      "name": "야채",
+      "prod": "야채",
+      "type": "오픈냉장",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 21,
+      "row": 11,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772065063013",
+      "name": "야채",
+      "prod": "야채",
+      "type": "오픈냉장",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 21,
+      "row": 10,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772065081200",
+      "name": "절임/양념류",
+      "prod": "절임/양념류",
+      "type": "오픈냉장",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 21,
+      "row": 9,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772065184704",
+      "name": "김치",
+      "prod": "김치",
+      "type": "오픈냉장",
+      "pri": "",
+      "note": "",
+      "color": "cw",
+      "col": 21,
+      "row": 8,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772065231369",
+      "name": "김치",
+      "prod": "김치",
+      "type": "오픈냉장",
+      "pri": "",
+      "note": "",
+      "color": "cw",
+      "col": 21,
+      "row": 7,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772065248697",
+      "name": "건식",
+      "prod": "건식",
+      "type": "오픈냉장",
+      "pri": "pf",
+      "note": "",
+      "color": "cn6",
+      "col": 21,
+      "row": 1,
+      "cols": 1,
+      "rows": 6
+    },
+    {
+      "id": "as2-3",
+      "name": "(2-3)핵심상품",
+      "prod": "",
+      "type": "평대",
+      "pri": "p2",
+      "note": "",
+      "color": "cn1",
+      "col": 11,
+      "row": 12,
+      "cols": 1,
+      "rows": 2
+    },
+    {
+      "id": "as2-2",
+      "name": "(2-2)핵심상품",
+      "prod": "",
+      "type": "평대",
+      "pri": "p2",
+      "note": "",
+      "color": "cn1",
+      "col": 11,
+      "row": 14,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "as1-3",
+      "name": "(1-3)핵심상품 연관",
+      "prod": "샤인머스켓 박스",
+      "type": "평대",
+      "pri": "p1",
+      "note": "",
+      "color": "cn5",
+      "col": 11,
+      "row": 18,
+      "cols": 1,
+      "rows": 3
+    },
+    {
+      "id": "as4-2-1",
+      "name": "(4-2)핵심상품",
+      "prod": "",
+      "type": "평대",
+      "pri": "__custom__",
+      "note": "",
+      "color": "cn1",
+      "col": 14,
+      "row": 13,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "as4-2-4",
+      "name": "(4-2)핵심상품",
+      "prod": "꿀사과/양구/청송사과",
+      "type": "평대",
+      "pri": "__custom__",
+      "note": "",
+      "color": "cn1",
+      "col": 14,
+      "row": 18,
+      "cols": 1,
+      "rows": 2
+    },
+    {
+      "id": "as7-3-2",
+      "name": "(7-3)상품",
+      "prod": ".",
+      "type": "평대",
+      "pri": "__custom__",
+      "note": "",
+      "color": "cn3",
+      "col": 15,
+      "row": 14,
+      "cols": 1,
+      "rows": 2
+    },
+    {
+      "id": "as4-2-3",
+      "name": "(4-2)핵심상품",
+      "prod": ".",
+      "type": "평대",
+      "pri": "__custom__",
+      "note": "",
+      "color": "cn1",
+      "col": 14,
+      "row": 16,
+      "cols": 1,
+      "rows": 2
+    },
+    {
+      "id": "as7-2-2",
+      "name": "(7-2)상품",
+      "prod": "",
+      "type": "평대",
+      "pri": "__custom__",
+      "note": "",
+      "color": "cn3",
+      "col": 15,
+      "row": 13,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "as4-2-2",
+      "name": "(4-2)핵심상품",
+      "prod": ".",
+      "type": "평대",
+      "pri": "__custom__",
+      "note": "",
+      "color": "cn1",
+      "col": 14,
+      "row": 14,
+      "cols": 1,
+      "rows": 2
+    },
+    {
+      "id": "as7-3-1",
+      "name": "(7-3)상품",
+      "prod": ".",
+      "type": "평대",
+      "pri": "__custom__",
+      "note": "",
+      "color": "cn3",
+      "col": 15,
+      "row": 17,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "as4-1-2",
+      "name": "(4-1)핵심상품",
+      "prod": "못난이사과(대용량봉)",
+      "type": "평대",
+      "pri": "__custom__",
+      "note": "",
+      "color": "cn1",
+      "col": 14,
+      "row": 20,
+      "cols": 2,
+      "rows": 1
+    },
+    {
+      "id": "z1772065604809",
+      "name": "기둥",
+      "prod": "",
+      "type": "벽부",
+      "pri": "",
+      "note": "",
+      "color": "cpillar",
+      "col": 15,
+      "row": 16,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "as7-2-1",
+      "name": "(7-2)상품",
+      "prod": ".",
+      "type": "평대",
+      "pri": "__custom__",
+      "note": "",
+      "color": "cn3",
+      "col": 15,
+      "row": 18,
+      "cols": 1,
+      "rows": 2
+    },
+    {
+      "id": "z1772065709877",
+      "name": "풀무원",
+      "prod": "",
+      "type": "냉장쇼케이스",
+      "pri": "pf",
+      "note": "",
+      "color": "cw",
+      "col": 18,
+      "row": 12,
+      "cols": 1,
+      "rows": 2
+    },
+    {
+      "id": "z1772065730597",
+      "name": "청정원",
+      "prod": "",
+      "type": "냉장쇼케이스",
+      "pri": "pf",
+      "note": "",
+      "color": "cw",
+      "col": 18,
+      "row": 16,
+      "cols": 1,
+      "rows": 2
+    },
+    {
+      "id": "z1772065734510",
+      "name": "씨제이",
+      "prod": "",
+      "type": "냉장쇼케이스",
+      "pri": "pf",
+      "note": "",
+      "color": "cw",
+      "col": 18,
+      "row": 14,
+      "cols": 1,
+      "rows": 2
+    },
+    {
+      "id": "z1772065749821",
+      "name": "계란",
+      "prod": "",
+      "type": "평대",
+      "pri": "pf",
+      "note": "",
+      "color": "cw",
+      "col": 18,
+      "row": 19,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772065756281",
+      "name": "(9-1)상품",
+      "prod": ".",
+      "type": "평대",
+      "pri": "__custom__",
+      "note": "",
+      "color": "cn3",
+      "col": 18,
+      "row": 20,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772065772294",
+      "name": "로컬 화훼",
+      "prod": "화훼",
+      "type": "평대",
+      "pri": "pf",
+      "note": "",
+      "color": "cn4",
+      "col": 7,
+      "row": 16,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "as6-2",
+      "name": "(6-2)상품",
+      "prod": "",
+      "type": "평대",
+      "pri": "__custom__",
+      "note": "",
+      "color": "cn3",
+      "col": 7,
+      "row": 15,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "as6-1",
+      "name": "(6-1)핵심상품",
+      "prod": "",
+      "type": "냉장쇼케이스",
+      "pri": "__custom__",
+      "note": "",
+      "color": "cn6",
+      "col": 7,
+      "row": 13,
+      "cols": 1,
+      "rows": 2
+    },
+    {
+      "id": "z1772065804933",
+      "name": "기둥",
+      "prod": "",
+      "type": "벽부",
+      "pri": "",
+      "note": "",
+      "color": "cpillar",
+      "col": 6,
+      "row": 16,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772066197227",
+      "name": "기둥",
+      "prod": "",
+      "type": "벽부",
+      "pri": "",
+      "note": "",
+      "color": "cpillar",
+      "col": 6,
+      "row": 9,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772066200042",
+      "name": "채소",
+      "prod": "고구마",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 6,
+      "row": 8,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772066202804",
+      "name": "채소",
+      "prod": "애호박/가지봉애호박/가지봉",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 7,
+      "row": 9,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772066205691",
+      "name": "채소",
+      "prod": "양상추",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 5,
+      "row": 10,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772066212196",
+      "name": "채소",
+      "prod": "고구마",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 7,
+      "row": 8,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772066214823",
+      "name": "채소",
+      "prod": "단호박",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 5,
+      "row": 8,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772066217492",
+      "name": "채소",
+      "prod": "파프리카",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 6,
+      "row": 10,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772066219932",
+      "name": "채소",
+      "prod": "미나리/고추",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 4,
+      "row": 10,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772066222804",
+      "name": "로컬푸드",
+      "prod": "로컬",
+      "type": "평대",
+      "pri": "pf",
+      "note": "",
+      "color": "cn4",
+      "col": 1,
+      "row": 0,
+      "cols": 1,
+      "rows": 7
+    },
+    {
+      "id": "z1772066225323",
+      "name": "로컬푸드",
+      "prod": "로컬",
+      "type": "평대",
+      "pri": "pf",
+      "note": "",
+      "color": "cn4",
+      "col": 1,
+      "row": 8,
+      "cols": 1,
+      "rows": 2
+    },
+    {
+      "id": "z1772066227700",
+      "name": "로컬푸드",
+      "prod": "로컬",
+      "type": "평대",
+      "pri": "pf",
+      "note": "",
+      "color": "cn4",
+      "col": 1,
+      "row": 11,
+      "cols": 1,
+      "rows": 2
+    },
+    {
+      "id": "z1772066233581",
+      "name": "로컬푸드",
+      "prod": "로컬",
+      "type": "평대",
+      "pri": "pf",
+      "note": "",
+      "color": "cn4",
+      "col": 1,
+      "row": 13,
+      "cols": 2,
+      "rows": 1
+    },
+    {
+      "id": "z1772066236947",
+      "name": "로컬푸드",
+      "prod": "로컬",
+      "type": "평대",
+      "pri": "pf",
+      "note": "",
+      "color": "cn4",
+      "col": 4,
+      "row": 13,
+      "cols": 3,
+      "rows": 1
+    },
+    {
+      "id": "z1772066436706",
+      "name": "채소",
+      "prod": "맛타리",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 7,
+      "row": 0,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772066514026",
+      "name": "공산식품",
+      "prod": "공산식품",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cw",
+      "col": 4,
+      "row": 0,
+      "cols": 1,
+      "rows": 2
+    },
+    {
+      "id": "z1772066516626",
+      "name": "채소",
+      "prod": "표고봉/송이/양송이",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 5,
+      "row": 1,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772066519210",
+      "name": "공산식품",
+      "prod": "공산식품",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cw",
+      "col": 5,
+      "row": 0,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772066521731",
+      "name": "채소",
+      "prod": "팽이/머쉬/새송이봉",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 6,
+      "row": 1,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772066523979",
+      "name": "제주채소",
+      "prod": "제주무/감자/당근/브로콜리",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 6,
+      "row": 5,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772066526783",
+      "name": "로컬 화훼",
+      "prod": "화훼",
+      "type": "평대",
+      "pri": "pf",
+      "note": "",
+      "color": "cn4",
+      "col": 6,
+      "row": 14,
+      "cols": 1,
+      "rows": 2
+    },
+    {
+      "id": "z1772066568274",
+      "name": "기둥",
+      "prod": "",
+      "type": "벽부",
+      "pri": "",
+      "note": "",
+      "color": "cpillar",
+      "col": 6,
+      "row": 0,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772066572516",
+      "name": ".",
+      "prod": "새송이",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 7,
+      "row": 1,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772066575347",
+      "name": "채소",
+      "prod": "깐마늘",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 4,
+      "row": 5,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772066577800",
+      "name": "채소",
+      "prod": "양파",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 4,
+      "row": 4,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772066580356",
+      "name": "채소",
+      "prod": "양배추",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 5,
+      "row": 5,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772066582619",
+      "name": "채소",
+      "prod": "대차/무시래기",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 5,
+      "row": 4,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772066587179",
+      "name": "채소",
+      "prod": "마/우엉/연근봉",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 6,
+      "row": 4,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772090950310",
+      "name": "수산",
+      "prod": "수산",
+      "type": "오픈냉장",
+      "pri": "",
+      "note": "",
+      "color": "cn6",
+      "col": 10,
+      "row": 0,
+      "cols": 1,
+      "rows": 2
+    },
+    {
+      "id": "z1772090963437",
+      "name": "수산",
+      "prod": "수산",
+      "type": "오픈냉장",
+      "pri": "",
+      "note": "",
+      "color": "cn6",
+      "col": 11,
+      "row": 0,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772090970245",
+      "name": "수산",
+      "prod": "수산",
+      "type": "오픈냉장",
+      "pri": "",
+      "note": "",
+      "color": "cn6",
+      "col": 11,
+      "row": 1,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772090976357",
+      "name": "수산",
+      "prod": "수산",
+      "type": "오픈냉장",
+      "pri": "",
+      "note": "",
+      "color": "cn6",
+      "col": 12,
+      "row": 0,
+      "cols": 1,
+      "rows": 2
+    },
+    {
+      "id": "z1772090995510",
+      "name": "기둥",
+      "prod": "",
+      "type": "오픈냉장",
+      "pri": "",
+      "note": "",
+      "color": "cpillar",
+      "col": 15,
+      "row": 1,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772091017007",
+      "name": "수산",
+      "prod": "수산",
+      "type": "오픈냉장",
+      "pri": "",
+      "note": "",
+      "color": "cn6",
+      "col": 15,
+      "row": 0,
+      "cols": 4,
+      "rows": 1
+    },
+    {
+      "id": "z1772091040711",
+      "name": "수산",
+      "prod": "수산",
+      "type": "오픈냉장",
+      "pri": "",
+      "note": "",
+      "color": "cn6",
+      "col": 16,
+      "row": 1,
+      "cols": 3,
+      "rows": 1
+    },
+    {
+      "id": "z1772177329744",
+      "name": "수입잡곡",
+      "prod": "수입잡곡",
+      "type": "오픈냉장",
+      "pri": "",
+      "note": "",
+      "color": "cn3",
+      "col": 11,
+      "row": 5,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772177359099",
+      "name": "잡곡",
+      "prod": "잡곡",
+      "type": "오픈냉장",
+      "pri": "",
+      "note": "",
+      "color": "cn3",
+      "col": 13,
+      "row": 5,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772177383580",
+      "name": "이천쌀",
+      "prod": "이천쌀",
+      "type": "오픈냉장",
+      "pri": "",
+      "note": "",
+      "color": "cn3",
+      "col": 14,
+      "row": 5,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772177400899",
+      "name": "도시히카리",
+      "prod": "도시히카리",
+      "type": "오픈냉장",
+      "pri": "",
+      "note": "",
+      "color": "cn3",
+      "col": 15,
+      "row": 5,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772177429487",
+      "name": "일반미",
+      "prod": "일반미",
+      "type": "오픈냉장",
+      "pri": "",
+      "note": "",
+      "color": "cn3",
+      "col": 16,
+      "row": 5,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "z1772177475452",
+      "name": "하루견과",
+      "prod": "하루견과",
+      "type": "오픈냉장",
+      "pri": "",
+      "note": "",
+      "color": "cn3",
+      "col": 13,
+      "row": 4,
+      "cols": 2,
+      "rows": 1
+    },
+    {
+      "id": "z1772177487652",
+      "name": "맛있는견과",
+      "prod": "맛있는견과",
+      "type": "오픈냉장",
+      "pri": "",
+      "note": "",
+      "color": "cn3",
+      "col": 15,
+      "row": 4,
+      "cols": 2,
+      "rows": 1
+    },
+    {
+      "id": "z1773103032580",
+      "name": "제주채소",
+      "prod": "봄나물",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 7,
+      "row": 4,
+      "cols": 1,
+      "rows": 2
+    }
+  ],
+  "userOverrides": {
+    "W04": {
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "as2-3": {
+        "prod": "만감류",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as2-2": {
+        "prod": "만감류",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as4-1-1": {
+        "prod": "하우스감귤박스",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as2-1": {
+        "prod": "만감류벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as1-1": {
+        "prod": "딸기",
+        "status": "planned",
+        "note": "구정 제수"
+      },
+      "as1-3": {
+        "prod": "샤인머스켓",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-2": {
+        "prod": "블루베리",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      }
+    },
+    "W01": {
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as1-2": {
+        "prod": "블루베리",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-3": {
+        "prod": "샤인머스켓",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-1": {
+        "prod": "딸기",
+        "status": "planned",
+        "note": "신년 떡국"
+      },
+      "as4-1-1": {
+        "prod": "토마토벌크",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as2-3": {
+        "prod": "만감류",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as2-1": {
+        "prod": "만감류벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "하우스감귤박스",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as3-1": {
+        "prod": "사과벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "바나나": {
+        "prod": "스위트마운틴바나나",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "z1772090950310": {
+        "prod": "수산",
+        "status": "planned",
+        "note": ""
+      },
+      "8키위": {
+        "prod": "유기농",
+        "status": "planned",
+        "note": ""
+      },
+      "버섯": {
+        "prod": "순수견과",
+        "status": "planned",
+        "note": ""
+      },
+      "한끼채소": {
+        "prod": "건식",
+        "status": "planned",
+        "note": ""
+      }
+    },
+    "W05": {
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as1-3": {
+        "prod": "샤인머스켓",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-2": {
+        "prod": "만감류",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as1-2": {
+        "prod": "블루베리",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as4-1-1": {
+        "prod": "하우스감귤박스",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "as2-1": {
+        "prod": "만감류벌크",
+        "status": "planned",
+        "note": "2순위"
+      }
+    },
+    "W02": {
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as2-1": {
+        "prod": "만감류벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-3": {
+        "prod": "만감류",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as2-2": {
+        "prod": "하우스감귤박스",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as3-1": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "as1-1": {
+        "prod": "딸기",
+        "status": "planned",
+        "note": "제철생선"
+      },
+      "as1-3": {
+        "prod": "샤인머스켓",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-2": {
+        "prod": "블루베리",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as4-1-1": {
+        "prod": "토마토벌크",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "바나나": {
+        "prod": "스위트마운틴바나나",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as5-1-1": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "as5-1-2": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "as5-1-3": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "as8-1": {
+        "prod": "★설선물세트",
+        "status": "confirmed",
+        "note": "박스 고정"
+      },
+      "as8-2": {
+        "prod": "★설선물세트",
+        "status": "confirmed",
+        "note": "박스 고정"
+      },
+      "as8-3": {
+        "prod": "★설선물세트",
+        "status": "confirmed",
+        "note": "박스 고정"
+      },
+      "z1772066572516": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "z1772066436706": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "z1772066521731": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "z1772066516626": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "z1772066519210": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "z1772066514026": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "as4-2-1": {
+        "prod": "스테비아/대추방울 토마토",
+        "status": "confirmed",
+        "note": "수입과일 고정"
+      },
+      "as4-2-2": {
+        "prod": "대추방울 토마토3종",
+        "status": "confirmed",
+        "note": "수입과일 고정"
+      }
+    },
+    "W03": {
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as1-3": {
+        "prod": "샤인머스켓",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as3-1": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "as8-1": {
+        "prod": "★설선물세트",
+        "status": "confirmed",
+        "note": "박스 고정"
+      },
+      "as8-2": {
+        "prod": "★설선물세트",
+        "status": "confirmed",
+        "note": "박스 고정"
+      },
+      "as8-3": {
+        "prod": "★설선물세트",
+        "status": "confirmed",
+        "note": "박스 고정"
+      },
+      "as5-1-1": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "as5-1-2": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "as5-1-3": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "z1772066572516": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "z1772066436706": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "z1772066521731": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "z1772066516626": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "z1772066519210": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "z1772066514026": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "as4-2-1": {
+        "prod": "스테비아/대추방울 토마토",
+        "status": "confirmed",
+        "note": "수입과일 고정"
+      },
+      "as4-2-2": {
+        "prod": "대추방울 토마토3종",
+        "status": "confirmed",
+        "note": "수입과일 고정"
+      },
+      "as2-3": {
+        "prod": "만감류",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as1-2": {
+        "prod": "블루베리",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as4-1-1": {
+        "prod": "토마토벌크",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as2-1": {
+        "prod": "만감류벌크",
+        "status": "planned",
+        "note": "2순위"
+      }
+    },
+    "W06": {
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "as1-3": {
+        "prod": "샤인머스켓",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-2": {
+        "prod": "블루베리",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-3": {
+        "prod": "만감류",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as2-1": {
+        "prod": "만감류벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "만감류",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as4-1-1": {
+        "prod": "하우스감귤박스",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "z1772177329744": {
+        "prod": "견과",
+        "status": "planned",
+        "note": ""
+      },
+      "8키위": {
+        "prod": "견과",
+        "status": "planned",
+        "note": ""
+      },
+      "z1772177359099": {
+        "prod": "견과",
+        "status": "planned",
+        "note": ""
+      },
+      "z1772177383580": {
+        "prod": "견과",
+        "status": "planned",
+        "note": ""
+      },
+      "z1772177400899": {
+        "prod": "견과",
+        "status": "planned",
+        "note": ""
+      },
+      "z1772177429487": {
+        "prod": "견과",
+        "status": "planned",
+        "note": ""
+      }
+    },
+    "W09": {
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "건어물": {
+        "prod": "★정월대보름모음",
+        "status": "planned",
+        "note": ""
+      },
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "as2-3": {
+        "prod": "만감류박스",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as2-1": {
+        "prod": "카라카라 오렌지",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "하우스감귤박스",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as1-3": {
+        "prod": "샤인머스켓",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as4-1-1": {
+        "prod": "만감류벌크",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as1-2": {
+        "prod": "블루베리",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "z1772177329744": {
+        "prod": "견과",
+        "status": "planned",
+        "note": ""
+      },
+      "8키위": {
+        "prod": "견과",
+        "status": "planned",
+        "note": ""
+      },
+      "z1772177359099": {
+        "prod": "견과",
+        "status": "planned",
+        "note": ""
+      },
+      "z1772177383580": {
+        "prod": "견과",
+        "status": "planned",
+        "note": ""
+      },
+      "z1772177400899": {
+        "prod": "견과",
+        "status": "planned",
+        "note": ""
+      },
+      "z1772177429487": {
+        "prod": "견과",
+        "status": "planned",
+        "note": ""
+      },
+      "as1-1": {
+        "prod": "딸기/블루베리",
+        "status": "planned",
+        "note": "봄맞이청소"
+      }
+    },
+    "W08": {
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": ""
+      },
+      "건어물": {
+        "prod": "★정월대보름모음",
+        "status": "confirmed",
+        "note": ""
+      },
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": ""
+      },
+      "as2-3": {
+        "prod": "만감류박스",
+        "status": "planned",
+        "note": ""
+      },
+      "as2-2": {
+        "prod": "하우스감귤박스",
+        "status": "confirmed",
+        "note": ""
+      },
+      "as1-3": {
+        "prod": "샤인머스켓",
+        "status": "confirmed",
+        "note": "1순위 연관"
+      },
+      "as4-1-1": {
+        "prod": "만감류벌크",
+        "status": "planned",
+        "note": ""
+      },
+      "as1-2": {
+        "prod": "블루베리",
+        "status": "confirmed",
+        "note": "1순위 연관"
+      }
+    },
+    "W10": {
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "건어물": {
+        "prod": "★정월대보름모음",
+        "status": "planned",
+        "note": ""
+      },
+      "as1-3": {
+        "prod": "샤인머스켓",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-1": {
+        "prod": "카라카라 오렌지",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-3": {
+        "prod": "만감류박스",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as2-2": {
+        "prod": "하우스감귤박스",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "as4-1-1": {
+        "prod": "만감류벌크",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as1-2": {
+        "prod": "블루베리",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "z1772066523979": {
+        "prod": "제주무/감자",
+        "status": "planned",
+        "note": ""
+      },
+      "z1773103032580": {
+        "prod": "당근/브로콜리",
+        "status": "planned",
+        "note": ""
+      },
+      "z1772177329744": {
+        "prod": "견과",
+        "status": "planned",
+        "note": ""
+      },
+      "8키위": {
+        "prod": "견과",
+        "status": "planned",
+        "note": ""
+      },
+      "z1772177359099": {
+        "prod": "견과",
+        "status": "planned",
+        "note": ""
+      },
+      "z1772177383580": {
+        "prod": "견과",
+        "status": "planned",
+        "note": ""
+      },
+      "z1772177400899": {
+        "prod": "견과",
+        "status": "planned",
+        "note": ""
+      },
+      "z1772177429487": {
+        "prod": "견과",
+        "status": "planned",
+        "note": ""
+      },
+      "as1-1": {
+        "prod": "딸기/블루베리",
+        "status": "planned",
+        "note": "졸업입학"
+      }
+    },
+    "W07": {
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "as1-3": {
+        "prod": "샤인머스켓",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-2": {
+        "prod": "블루베리",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-3": {
+        "prod": "만감류",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as2-2": {
+        "prod": "만감류",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as2-1": {
+        "prod": "만감류벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as4-1-1": {
+        "prod": "하우스감귤박스",
+        "status": "confirmed",
+        "note": "52주 고정"
+      }
+    },
+    "W11": {
+      "as1-3": {
+        "prod": "오렌지",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-1": {
+        "prod": "딸기",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-3": {
+        "prod": "샤인머스켓",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as2-2": {
+        "prod": "딸기",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "건어물": {
+        "prod": "견과류",
+        "status": "planned",
+        "note": ""
+      },
+      "as4-1-1": {
+        "prod": "만감류벌크",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as1-2": {
+        "prod": "블루베리",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as3-1": {
+        "prod": "토마토벌크.",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "z1772066523979": {
+        "prod": "제주무/감자",
+        "status": "planned",
+        "note": ""
+      },
+      "as5-1-1": {
+        "prod": "스테비아/대추방울 토마토,",
+        "status": "planned",
+        "note": ""
+      },
+      "as5-1-2": {
+        "prod": "대추방울 토마토3종,",
+        "status": "planned",
+        "note": ""
+      },
+      "as5-1-3": {
+        "prod": "토마토(박스),",
+        "status": "planned",
+        "note": ""
+      },
+      "as1-1": {
+        "prod": "오렌지",
+        "status": "planned",
+        "note": "삼삼데이"
+      }
+    },
+    "W12": {
+      "as1-3": {
+        "prod": "오렌지",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as3-1": {
+        "prod": "딸기@@!!!!!!",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "as2-2": {
+        "prod": "딸기",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as2-3": {
+        "prod": "샤인머스켓",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as4-1-1": {
+        "prod": "하우스감귤",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "z1772066523979": {
+        "prod": "제주무/감자",
+        "status": "planned",
+        "note": ""
+      }
+    },
+    "W13": {
+      "as4-1-1": {
+        "prod": "토마토벌크",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as3-1": {
+        "prod": "참외",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "as4-2-1": {
+        "prod": "수입포도",
+        "status": "confirmed",
+        "note": "수입과일 고정"
+      },
+      "as2-2": {
+        "prod": "딸기",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as2-3": {
+        "prod": "샤인머스켓",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as1-3": {
+        "prod": "오렌지",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "z1772066523979": {
+        "prod": "제주무/감자",
+        "status": "planned",
+        "note": ""
+      }
+    },
+    "W14": {
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "as4-1-1": {
+        "prod": "하우스감귤",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as2-2": {
+        "prod": "오렌지",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as2-3": {
+        "prod": "오렌지",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as4-2-1": {
+        "prod": "수입포도",
+        "status": "confirmed",
+        "note": "수입과일 고정"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as1-3": {
+        "prod": "참외 박스",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-1": {
+        "prod": "오렌지벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as1-1": {
+        "prod": "참외(벌크)",
+        "status": "planned",
+        "note": "해초모음"
+      },
+      "as1-2": {
+        "prod": "참외(봉)",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "z1772066523979": {
+        "prod": "제주무/감자",
+        "status": "planned",
+        "note": ""
+      }
+    },
+    "W15": {
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "as4-1-1": {
+        "prod": "하우스감귤",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as2-3": {
+        "prod": "오렌지",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as4-2-1": {
+        "prod": "수입포도",
+        "status": "confirmed",
+        "note": "수입과일 고정"
+      },
+      "as2-2": {
+        "prod": "오렌지",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as1-3": {
+        "prod": "참외 박스",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-1": {
+        "prod": "오렌지벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as1-1": {
+        "prod": "참외(벌크)",
+        "status": "planned",
+        "note": "제철수산"
+      },
+      "as1-2": {
+        "prod": "참외(봉)",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "z1772066523979": {
+        "prod": "제주무/감자",
+        "status": "planned",
+        "note": ""
+      }
+    },
+    "W16": {
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "as4-1-1": {
+        "prod": "하우스감귤",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as1-1": {
+        "prod": "참외(벌크)",
+        "status": "planned",
+        "note": "식목일"
+      },
+      "as1-2": {
+        "prod": "참외(봉)",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-1": {
+        "prod": "오렌지벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "오렌지",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as4-2-1": {
+        "prod": "수입포도",
+        "status": "confirmed",
+        "note": "수입과일 고정"
+      },
+      "as2-3": {
+        "prod": "오렌지",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "z1772066523979": {
+        "prod": "제주무/감자",
+        "status": "planned",
+        "note": ""
+      }
+    },
+    "W17": {
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "as1-1": {
+        "prod": "참외(벌크)",
+        "status": "planned",
+        "note": "피크닉"
+      },
+      "as1-2": {
+        "prod": "참외(봉)",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-1": {
+        "prod": "오렌지벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "오렌지",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as4-1-1": {
+        "prod": "하우스감귤",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as4-2-1": {
+        "prod": "수입포도",
+        "status": "confirmed",
+        "note": "수입과일 고정"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "z1772066523979": {
+        "prod": "제주무/감자",
+        "status": "planned",
+        "note": ""
+      }
+    },
+    "W18": {
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "as4-2-1": {
+        "prod": "수입포도",
+        "status": "confirmed",
+        "note": "수입과일 고정"
+      },
+      "as2-2": {
+        "prod": "오렌지",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as2-1": {
+        "prod": "오렌지벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as4-1-1": {
+        "prod": "수입포도",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as1-1": {
+        "prod": "참외(벌크)",
+        "status": "planned",
+        "note": "주년행사"
+      },
+      "as1-2": {
+        "prod": "참외(봉)",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "z1772066523979": {
+        "prod": "제주무/감자",
+        "status": "planned",
+        "note": ""
+      }
+    },
+    "W19": {
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "as2-1": {
+        "prod": "오렌지벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "오렌지",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as4-1-1": {
+        "prod": "수입포도",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as4-2-1": {
+        "prod": "수입포도",
+        "status": "confirmed",
+        "note": "수입과일 고정"
+      },
+      "as1-1": {
+        "prod": "참외(벌크)",
+        "status": "planned",
+        "note": "캠핑BBQ"
+      },
+      "as1-2": {
+        "prod": "참외(봉)",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      }
+    },
+    "W20": {
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "as4-1-1": {
+        "prod": "수입포도",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as4-2-1": {
+        "prod": "수입포도",
+        "status": "confirmed",
+        "note": "수입과일 고정"
+      },
+      "as1-1": {
+        "prod": "참외(벌크)",
+        "status": "planned",
+        "note": "피크닉"
+      },
+      "as1-2": {
+        "prod": "참외(봉)",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-3": {
+        "prod": "참외 박스",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-1": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as2-3": {
+        "prod": "체리/애플망고",
+        "status": "planned",
+        "note": "3순위"
+      }
+    },
+    "W21": {
+      "as1-1": {
+        "prod": "참외(벌크)",
+        "status": "planned",
+        "note": "오리데이"
+      },
+      "as1-2": {
+        "prod": "참외(봉)",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as4-1-1": {
+        "prod": "수입포도",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as4-2-1": {
+        "prod": "수입포도",
+        "status": "confirmed",
+        "note": "수입과일 고정"
+      },
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as2-1": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as2-3": {
+        "prod": "체리/애플망고",
+        "status": "planned",
+        "note": "3순위"
+      }
+    },
+    "W22": {
+      "as4-1-1": {
+        "prod": "수입포도",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as4-2-1": {
+        "prod": "수입포도",
+        "status": "confirmed",
+        "note": "수입과일 고정"
+      },
+      "as2-1": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-3": {
+        "prod": "체리/애플망고",
+        "status": "planned",
+        "note": ""
+      },
+      "as2-2": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as1-1": {
+        "prod": "참외(벌크)",
+        "status": "planned",
+        "note": "감사선물"
+      },
+      "as1-2": {
+        "prod": "참외(봉)",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      }
+    },
+    "W23": {
+      "as4-1-1": {
+        "prod": "토마토(벌크)",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as4-2-1": {
+        "prod": "스테비아/대추방울 토마토",
+        "status": "confirmed",
+        "note": "수입과일 고정"
+      },
+      "as3-1": {
+        "prod": "키위(벌크)",
+        "status": "planned",
+        "note": ""
+      },
+      "as4-2-2": {
+        "prod": "대추방울 토마토3종",
+        "status": "confirmed",
+        "note": "수입과일 고정"
+      },
+      "as5-1-1": {
+        "prod": "키위(팩)",
+        "status": "planned",
+        "note": ""
+      },
+      "as5-1-2": {
+        "prod": "키위(팩)",
+        "status": "planned",
+        "note": ""
+      },
+      "as5-1-3": {
+        "prod": "키위(팩)",
+        "status": "planned",
+        "note": ""
+      },
+      "as1-1": {
+        "prod": "참외(벌크)",
+        "status": "planned",
+        "note": "꿀맛과일"
+      },
+      "as1-2": {
+        "prod": "참외(봉)",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-1": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as2-3": {
+        "prod": "체리/애플망고",
+        "status": "planned",
+        "note": ""
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      }
+    },
+    "W24": {
+      "as4-1-1": {
+        "prod": "토마토(벌크)",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as4-2-1": {
+        "prod": "스테비아/대추방울 토마토",
+        "status": "confirmed",
+        "note": "수입과일 고정"
+      },
+      "as1-1": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "주류위크"
+      },
+      "as1-2": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-3": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as3-1": {
+        "prod": "키위(벌크)",
+        "status": "planned",
+        "note": ""
+      },
+      "as5-1-1": {
+        "prod": "키위(팩)",
+        "status": "planned",
+        "note": ""
+      },
+      "as5-1-2": {
+        "prod": "키위(팩)",
+        "status": "planned",
+        "note": ""
+      },
+      "as5-1-3": {
+        "prod": "키위(팩)",
+        "status": "planned",
+        "note": ""
+      },
+      "as2-1": {
+        "prod": "참외",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as2-3": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": ""
+      },
+      "as4-2-2": {
+        "prod": "대추방울 토마토3종 ",
+        "status": "confirmed",
+        "note": "수입과일 고정"
+      }
+    },
+    "W25": {
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as2-1": {
+        "prod": "참외",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-3": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": ""
+      },
+      "as2-2": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as1-3": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-1": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "여름가전"
+      },
+      "as1-2": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as3-1": {
+        "prod": "키위(벌크)",
+        "status": "planned",
+        "note": ""
+      },
+      "as5-1-1": {
+        "prod": "키위(팩)",
+        "status": "planned",
+        "note": ""
+      },
+      "as5-1-2": {
+        "prod": "키위(팩)",
+        "status": "planned",
+        "note": ""
+      },
+      "as5-1-3": {
+        "prod": "키위(팩)",
+        "status": "planned",
+        "note": ""
+      },
+      "as4-1-1": {
+        "prod": "토마토(벌크)",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as4-2-1": {
+        "prod": "스테비아/대추방울 토마토",
+        "status": "confirmed",
+        "note": "수입과일 고정"
+      },
+      "as4-2-2": {
+        "prod": "대추방울 토마토3종 ",
+        "status": "confirmed",
+        "note": "수입과일 고정"
+      }
+    },
+    "W26": {
+      "as3-1": {
+        "prod": "토마토(벌크)",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "as4-1-1": {
+        "prod": "하우스감귤",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "as2-1": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as1-1": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "육육축제"
+      },
+      "as1-3": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-2": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      }
+    },
+    "W27": {
+      "as1-1": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "나들이&캠핑"
+      },
+      "as1-2": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-3": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-1": {
+        "prod": "키위벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "키위",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as2-3": {
+        "prod": "참외",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      }
+    },
+    "W28": {
+      "as1-1": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "시원요리"
+      },
+      "as1-2": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-3": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-1": {
+        "prod": "참외벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "참외",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as2-3": {
+        "prod": "키위",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      }
+    },
+    "W29": {
+      "as1-1": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "장마대비"
+      },
+      "as1-2": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-3": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-1": {
+        "prod": "참외벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "참외",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as2-3": {
+        "prod": "키위",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      }
+    },
+    "W30": {
+      "as1-1": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "수박데이"
+      },
+      "as1-2": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-3": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-1": {
+        "prod": "참외벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "참외",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as2-3": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      }
+    },
+    "W31": {
+      "as1-1": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "여름야식"
+      },
+      "as1-2": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-3": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-1": {
+        "prod": "복숭아벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as2-3": {
+        "prod": "토마토",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      }
+    },
+    "W32": {
+      "as1-1": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "여름과일"
+      },
+      "as1-2": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-3": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-1": {
+        "prod": "복숭아벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as2-3": {
+        "prod": "토마토",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      }
+    },
+    "W33": {
+      "as1-1": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "초복"
+      },
+      "as1-2": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-3": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-1": {
+        "prod": "복숭아벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as2-3": {
+        "prod": "자두",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      }
+    },
+    "W34": {
+      "as1-1": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "휴가준비"
+      },
+      "as1-2": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-3": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-1": {
+        "prod": "복숭아벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as2-3": {
+        "prod": "자두",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      }
+    },
+    "W35": {
+      "as1-1": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": "중복"
+      },
+      "as1-2": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-3": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-1": {
+        "prod": "자두벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "자두",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as2-3": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      }
+    },
+    "W36": {
+      "as1-1": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": "여름채소"
+      },
+      "as1-2": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-3": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-1": {
+        "prod": "자두벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "자두",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as2-3": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      }
+    },
+    "W37": {
+      "as1-1": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": "햇사과"
+      },
+      "as1-2": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-3": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-1": {
+        "prod": "자두벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "자두",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as2-3": {
+        "prod": "포도",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      }
+    },
+    "W38": {
+      "as1-1": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": "고랭지채소"
+      },
+      "as1-2": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-3": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-1": {
+        "prod": "포도벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "포도",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as2-3": {
+        "prod": "자두",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      }
+    },
+    "W39": {
+      "as1-1": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": "제철수산"
+      },
+      "as1-2": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-3": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-1": {
+        "prod": "포도벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "포도",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as2-3": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      }
+    },
+    "W40": {
+      "as1-1": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": "가을준비"
+      },
+      "as1-2": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-3": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-1": {
+        "prod": "포도벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "포도",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as2-3": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      }
+    },
+    "W41": {
+      "as1-1": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "개학"
+      },
+      "as1-2": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-3": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-1": {
+        "prod": "포도벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "포도",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as2-3": {
+        "prod": "배",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      }
+    },
+    "W42": {
+      "as1-1": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "햇과일"
+      },
+      "as1-2": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-3": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-1": {
+        "prod": "포도벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "포도",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as2-3": {
+        "prod": "배",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      }
+    },
+    "W43": {
+      "as1-1": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "가을채소"
+      },
+      "as1-2": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-3": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-1": {
+        "prod": "배벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "배",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as2-3": {
+        "prod": "포도",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      }
+    },
+    "W44": {
+      "as1-1": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "가을수산"
+      },
+      "as1-2": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-3": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-1": {
+        "prod": "배벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "배",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as2-3": {
+        "prod": "포도",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      }
+    },
+    "W45": {
+      "as1-1": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "추석세트"
+      },
+      "as1-2": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-3": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-1": {
+        "prod": "배벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "배",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as2-3": {
+        "prod": "포도",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      }
+    },
+    "W46": {
+      "as1-1": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "추석세트"
+      },
+      "as1-2": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-3": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-1": {
+        "prod": "배벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "배",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as2-3": {
+        "prod": "포도",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      }
+    },
+    "W47": {
+      "as1-1": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "추석제수"
+      },
+      "as1-2": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-3": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-1": {
+        "prod": "포도벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "포도",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as2-3": {
+        "prod": "감",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      }
+    },
+    "W48": {
+      "as1-1": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "단풍"
+      },
+      "as1-2": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-3": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-1": {
+        "prod": "포도벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "포도",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as2-3": {
+        "prod": "감",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      }
+    },
+    "W49": {
+      "as1-1": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "환절기"
+      },
+      "as1-2": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-3": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-1": {
+        "prod": "포도벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "포도",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as2-3": {
+        "prod": "감",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      }
+    },
+    "W50": {
+      "as1-1": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "겨울준비"
+      },
+      "as1-2": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-3": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-1": {
+        "prod": "포도벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "포도",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as2-3": {
+        "prod": "감",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      }
+    },
+    "W51": {
+      "as1-1": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "한우데이"
+      },
+      "as1-2": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-3": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-1": {
+        "prod": "감벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "감",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as2-3": {
+        "prod": "포도",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      }
+    },
+    "W52": {
+      "as1-1": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "창립행사"
+      },
+      "as1-2": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as1-3": {
+        "prod": "사과",
+        "status": "planned",
+        "note": "1순위 연관"
+      },
+      "as2-1": {
+        "prod": "감벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "as2-2": {
+        "prod": "감",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "as2-3": {
+        "prod": "포도",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "as3-1": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "3순위 서브"
+      },
+      "냉동과일": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      }
+    }
+  },
+  "store": "gs",
+  "savedBy": "이진경",
+  "savedAt": "2026-03-16T07:28:14.641Z"
+}
