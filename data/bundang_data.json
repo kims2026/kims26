@@ -1,0 +1,2679 @@
+{
+  "zones": [
+    {
+      "id": "공산_치즈류",
+      "name": "공산 치즈류",
+      "prod": "공산 치즈류",
+      "type": "오픈냉장",
+      "pri": "",
+      "note": "",
+      "color": "cw",
+      "col": 0,
+      "row": 0,
+      "cols": 1,
+      "rows": 2
+    },
+    {
+      "id": "견과류",
+      "name": "견과류",
+      "prod": "견과류",
+      "type": "곤돌라",
+      "pri": "",
+      "note": "",
+      "color": "cn3",
+      "col": 3,
+      "row": 0,
+      "cols": 1,
+      "rows": 2
+    },
+    {
+      "id": "견과류_2",
+      "name": "견과류",
+      "prod": "견과류",
+      "type": "곤돌라",
+      "pri": "",
+      "note": "",
+      "color": "cn3",
+      "col": 4,
+      "row": 0,
+      "cols": 6,
+      "rows": 1
+    },
+    {
+      "id": "앙곡",
+      "name": "앙곡",
+      "prod": "앙곡",
+      "type": "양곡파렛트",
+      "pri": "",
+      "note": "",
+      "color": "cn3",
+      "col": 13,
+      "row": 0,
+      "cols": 1,
+      "rows": 2
+    },
+    {
+      "id": "앙곡_2",
+      "name": "앙곡",
+      "prod": "앙곡",
+      "type": "양곡파렛트",
+      "pri": "",
+      "note": "",
+      "color": "cn3",
+      "col": 14,
+      "row": 0,
+      "cols": 5,
+      "rows": 1
+    },
+    {
+      "id": "앙곡__호영그레인",
+      "name": "앙곡 (호영그레인)",
+      "prod": "앙곡 (호영그레인)",
+      "type": "양곡파렛트",
+      "pri": "",
+      "note": "",
+      "color": "cn3",
+      "col": 19,
+      "row": 0,
+      "cols": 1,
+      "rows": 2
+    },
+    {
+      "id": "견과류_3",
+      "name": "견과류",
+      "prod": "견과류",
+      "type": "곧돌라",
+      "pri": "",
+      "note": "",
+      "color": "cn3",
+      "col": 4,
+      "row": 1,
+      "cols": 6,
+      "rows": 1
+    },
+    {
+      "id": "앙곡_3",
+      "name": "앙곡",
+      "prod": "앙곡",
+      "type": "양곡파렛트",
+      "pri": "",
+      "note": "",
+      "color": "cn3",
+      "col": 14,
+      "row": 1,
+      "cols": 5,
+      "rows": 1
+    },
+    {
+      "id": "허브류_샐러드류",
+      "name": "허브류 샐러드류",
+      "prod": "허브류 샐러드류",
+      "type": "오픈냉장",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 0,
+      "row": 2,
+      "cols": 1,
+      "rows": 3
+    },
+    {
+      "id": "오렌지__벌크",
+      "name": "오렌지 (벌크)",
+      "prod": "하우스감귤(박스)",
+      "type": "평대",
+      "pri": "p2",
+      "note": "",
+      "color": "cn1",
+      "col": 3,
+      "row": 4,
+      "cols": 1,
+      "rows": 2
+    },
+    {
+      "id": "과일청___과일주스___채소",
+      "name": "과일청 / 과일주스 / 채소즙",
+      "prod": "과일청 / 과일주스 / 채소즙",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cw",
+      "col": 4,
+      "row": 4,
+      "cols": 5,
+      "rows": 1
+    },
+    {
+      "id": "그린키위_팩",
+      "name": "그린키위(팩)",
+      "prod": "그린키위(팩)",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn1",
+      "col": 9,
+      "row": 4,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "바타비아1입_990원",
+      "name": "바타비아1입 990원",
+      "prod": "바타비아1입 990원",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cw",
+      "col": 13,
+      "row": 4,
+      "cols": 1,
+      "rows": 2
+    },
+    {
+      "id": "고구마_말랭이",
+      "name": "고구마 말랭이",
+      "prod": "고구마 말랭이",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 14,
+      "row": 4,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "고구마_말랭이_2",
+      "name": "고구마 말랭이",
+      "prod": "고구마 말랭이",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 15,
+      "row": 4,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "시래기_옥수수_절임류",
+      "name": "시래기 옥수수 절임류",
+      "prod": "시래기 옥수수 절임류",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 16,
+      "row": 4,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "누룽지",
+      "name": "누룽지",
+      "prod": "누룽지",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 17,
+      "row": 4,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "누룽지_2",
+      "name": "누룽지",
+      "prod": "누룽지",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 18,
+      "row": 4,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "양곡_행사__팔레트",
+      "name": "양곡 행사 (팔레트)",
+      "prod": "양곡 행사 (팔레트)",
+      "type": "양곡파렛트",
+      "pri": "",
+      "note": "",
+      "color": "cn3",
+      "col": 19,
+      "row": 4,
+      "cols": 1,
+      "rows": 2
+    },
+    {
+      "id": "자몽",
+      "name": "자몽",
+      "prod": "자몽",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn1",
+      "col": 4,
+      "row": 5,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "아보카도",
+      "name": "아보카도",
+      "prod": "아보카도",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn1",
+      "col": 5,
+      "row": 5,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "애플망고",
+      "name": "애플망고",
+      "prod": "애플망고",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn1",
+      "col": 6,
+      "row": 5,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "용과_팩__망고_팩",
+      "name": "용과(팩) 망고(팩)",
+      "prod": "용과(팩) 망고(팩)",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn1",
+      "col": 7,
+      "row": 5,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "아보카도_팩__레몬_봉",
+      "name": "아보카도(팩) 레몬(봉)",
+      "prod": "아보카도(팩) 레몬(봉)",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn1",
+      "col": 8,
+      "row": 5,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "골드키위_팩",
+      "name": "골드키위(팩)",
+      "prod": "골드키위(팩)",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn1",
+      "col": 9,
+      "row": 5,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "새송이_1_590",
+      "name": "새송이 1,590",
+      "prod": "새송이 1,590",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 14,
+      "row": 5,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "머쉬마루_2_990",
+      "name": "머쉬마루 2,990",
+      "prod": "머쉬마루 2,990",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 15,
+      "row": 5,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "팽이_590",
+      "name": "팽이 590",
+      "prod": "팽이 590",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 16,
+      "row": 5,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "맛타리버섯_1_590",
+      "name": "맛타리버섯 1,590",
+      "prod": "맛타리버섯 1,590",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 17,
+      "row": 5,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "양송이버섯_3_990",
+      "name": "양송이버섯 3,990",
+      "prod": "양송이버섯 3,990",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 18,
+      "row": 5,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "컵과일_소스류_고급과일",
+      "name": "컵과일 소스류 고급과일",
+      "prod": "컵과일 소스류 고급과일",
+      "type": "오픈냉장",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 0,
+      "row": 5,
+      "cols": 1,
+      "rows": 3
+    },
+    {
+      "id": "대보름_모음전",
+      "name": "딸기조닝",
+      "prod": "대보름 모음전",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn1",
+      "col": 3,
+      "row": 8,
+      "cols": 1,
+      "rows": 2
+    },
+    {
+      "id": "대보름_모음전_2",
+      "name": "",
+      "prod": "대보름 모음전",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn1",
+      "col": 4,
+      "row": 8,
+      "cols": 1,
+      "rows": 2
+    },
+    {
+      "id": "스위트__마운틴",
+      "name": "스위트  마운틴",
+      "prod": "스위트  마운틴",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn5",
+      "col": 8,
+      "row": 8,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "스위티오_감숙왕_유기농",
+      "name": "스위티오 감숙왕 유기농",
+      "prod": "스위티오 감숙왕 유기농",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn5",
+      "col": 9,
+      "row": 8,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "제주__양배추_양상추",
+      "name": "제주  양배추 양상추",
+      "prod": "제주  양배추 양상추",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 13,
+      "row": 8,
+      "cols": 1,
+      "rows": 2
+    },
+    {
+      "id": "제주_감자_5_990_제주",
+      "name": "제주 감자 5,990 제주 당근  2",
+      "prod": "제주 감자 5,990 제주 당근  2,990",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 14,
+      "row": 8,
+      "cols": 1,
+      "rows": 2
+    },
+    {
+      "id": "로컬_푸드",
+      "name": "로컬 푸드",
+      "prod": "로컬 푸드",
+      "type": "로컬냉장",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 18,
+      "row": 8,
+      "cols": 2,
+      "rows": 1
+    },
+    {
+      "id": "제주__브로콜리_제주_콜라비",
+      "name": "제주  브로콜리 제주 콜라비",
+      "prod": "제주  브로콜리 제주 콜라비",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 13,
+      "row": 10,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "양파_중_3_990",
+      "name": "양파 중 3,990",
+      "prod": "양파 중 3,990",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 14,
+      "row": 10,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "실속배",
+      "name": "실속배",
+      "prod": "실속배",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn1",
+      "col": 8,
+      "row": 10,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "단감_특",
+      "name": "단감(특)",
+      "prod": "단감(특)",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn5",
+      "col": 9,
+      "row": 10,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "대보름_모음전_3",
+      "name": "대보름 모음전",
+      "prod": "대보름 모음전",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn1",
+      "col": 3,
+      "row": 10,
+      "cols": 2,
+      "rows": 1
+    },
+    {
+      "id": "만감류__박스",
+      "name": "만감류 (박스)",
+      "prod": "만감류 (박스)",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cw",
+      "col": 0,
+      "row": 10,
+      "cols": 1,
+      "rows": 3
+    },
+    {
+      "id": "꿀고랭지",
+      "name": "꿀고랭지",
+      "prod": "꿀고랭지",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn5",
+      "col": 8,
+      "row": 11,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "제주_무_배추",
+      "name": "제주 무 배추",
+      "prod": "제주 무 배추",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 13,
+      "row": 11,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "흙대파",
+      "name": "흙대파",
+      "prod": "흙대파",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 14,
+      "row": 11,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "로컬__푸드",
+      "name": "로컬  푸드",
+      "prod": "로컬  푸드",
+      "type": "로컬냉장",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 18,
+      "row": 10,
+      "cols": 1,
+      "rows": 6
+    },
+    {
+      "id": "로컬__푸드_2",
+      "name": "로컬  푸드",
+      "prod": "로컬  푸드",
+      "type": "로컬냉장",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 19,
+      "row": 10,
+      "cols": 1,
+      "rows": 6
+    },
+    {
+      "id": "유명산지_밤",
+      "name": "유명산지 밤",
+      "prod": "유명산지 밤",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn1",
+      "col": 9,
+      "row": 11,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "청송사과",
+      "name": "청송사과",
+      "prod": "청송사과",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn1",
+      "col": 8,
+      "row": 12,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "애호박_가지3입",
+      "name": "애호박 가지3입",
+      "prod": "애호박 가지3입",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 13,
+      "row": 12,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "깐마늘_단호박",
+      "name": "깐마늘 단호박",
+      "prod": "깐마늘 단호박",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 14,
+      "row": 12,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "대추방울_3종",
+      "name": "대추방울 3종",
+      "prod": "대추방울 3종",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn1",
+      "col": 9,
+      "row": 12,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "영주사과",
+      "name": "영주사과",
+      "prod": "영주사과",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn1",
+      "col": 8,
+      "row": 13,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "왕_딸기_1kg",
+      "name": "참외",
+      "prod": "왕 딸기 1kg",
+      "type": "평대",
+      "pri": "p1",
+      "note": "",
+      "color": "cn1",
+      "col": 3,
+      "row": 13,
+      "cols": 1,
+      "rows": 2
+    },
+    {
+      "id": "샤인머스켓__송이",
+      "name": "샤인머스켓 (송이)",
+      "prod": "샤인머스켓 (송이)",
+      "type": "평대",
+      "pri": "p2",
+      "note": "",
+      "color": "cn1",
+      "col": 4,
+      "row": 13,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "오이3입_파프리카_3입",
+      "name": "오이3입 파프리카 3입",
+      "prod": "오이3입 파프리카 3입",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 13,
+      "row": 13,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "달수_고구마",
+      "name": "달수 고구마",
+      "prod": "달수 고구마",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 14,
+      "row": 13,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "못난이__사과__벌크",
+      "name": "못난이  사과 (벌크)",
+      "prod": "못난이  사과 (벌크)",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn1",
+      "col": 8,
+      "row": 14,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "스테비아__대추방울_토마토",
+      "name": "스테비아/대추방울 토마토 3종",
+      "prod": "스테비아/대추방울 토마토 3종",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn1",
+      "col": 9,
+      "row": 13,
+      "cols": 1,
+      "rows": 3
+    },
+    {
+      "id": "참외_봉",
+      "name": "참외(봉)",
+      "prod": "참외(봉)",
+      "type": "평대",
+      "pri": "p2",
+      "note": "",
+      "color": "cn1",
+      "col": 4,
+      "row": 14,
+      "cols": 1,
+      "rows": 2
+    },
+    {
+      "id": "미나리_냉이__달래",
+      "name": "미나리 냉이, 달래",
+      "prod": "미나리 냉이, 달래",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 13,
+      "row": 14,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "밤고구마_호박_고구마",
+      "name": "밤고구마 호박 고구마",
+      "prod": "밤고구마 호박 고구마",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 14,
+      "row": 14,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "못난이__사과__벌크_2",
+      "name": "못난이  사과 (벌크)",
+      "prod": "못난이  사과 (벌크)",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn1",
+      "col": 8,
+      "row": 15,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "딸기500g_특",
+      "name": "딸기500g(특)",
+      "prod": "딸기500g(특)",
+      "type": "평대",
+      "pri": "p1",
+      "note": "",
+      "color": "cn1",
+      "col": 3,
+      "row": 15,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "봄동_남해초",
+      "name": "봄동 남해초",
+      "prod": "봄동 남해초",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 13,
+      "row": 15,
+      "cols": 1,
+      "rows": 2
+    },
+    {
+      "id": "참송이_버섯",
+      "name": "참송이 버섯",
+      "prod": "참송이 버섯",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 14,
+      "row": 15,
+      "cols": 1,
+      "rows": 2
+    },
+    {
+      "id": "로컬__냉장평대",
+      "name": "로컬 (냉장평대)",
+      "prod": "로컬 (냉장평대)",
+      "type": "냉장평대",
+      "pri": "",
+      "note": "",
+      "color": "cc",
+      "col": 18,
+      "row": 16,
+      "cols": 2,
+      "rows": 1
+    },
+    {
+      "id": "생_블루베리__510g_31",
+      "name": "생 블루베리 (510g/310g/27",
+      "prod": "오랜지",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn1",
+      "col": 3,
+      "row": 16,
+      "cols": 2,
+      "rows": 1
+    },
+    {
+      "id": "신고배__벌크",
+      "name": "신고배 (벌크)",
+      "prod": "신고배 (벌크)",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn1",
+      "col": 8,
+      "row": 16,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "찰토마토__벌크",
+      "name": "찰토마토 (벌크)",
+      "prod": "찰토마토 (벌크)",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn1",
+      "col": 9,
+      "row": 16,
+      "cols": 1,
+      "rows": 1
+    },
+    {
+      "id": "냉동_평대",
+      "name": "냉동 평대",
+      "prod": "냉동 평대",
+      "type": "냉동평대",
+      "pri": "",
+      "note": "",
+      "color": "cc",
+      "col": 3,
+      "row": 19,
+      "cols": 3,
+      "rows": 1
+    },
+    {
+      "id": "냉동과일_야채",
+      "name": "냉동과일/야채",
+      "prod": "냉동과일/야채",
+      "type": "냉동평대",
+      "pri": "",
+      "note": "",
+      "color": "cc",
+      "col": 6,
+      "row": 19,
+      "cols": 3,
+      "rows": 1
+    },
+    {
+      "id": "엽채류_나물투데이",
+      "name": "엽채류 나물투데이",
+      "prod": "엽채류 나물투데이",
+      "type": "평대",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 9,
+      "row": 19,
+      "cols": 4,
+      "rows": 1
+    },
+    {
+      "id": "풀무원",
+      "name": "풀무원",
+      "prod": "풀무원",
+      "type": "냉장쇼케이스",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 13,
+      "row": 19,
+      "cols": 2,
+      "rows": 1
+    },
+    {
+      "id": "씨제이",
+      "name": "씨제이",
+      "prod": "씨제이",
+      "type": "냉장쇼케이스",
+      "pri": "",
+      "note": "",
+      "color": "cn6",
+      "col": 15,
+      "row": 19,
+      "cols": 2,
+      "rows": 1
+    },
+    {
+      "id": "계란",
+      "name": "계란",
+      "prod": "계란",
+      "type": "냉장",
+      "pri": "",
+      "note": "",
+      "color": "cn4",
+      "col": 17,
+      "row": 19,
+      "cols": 4,
+      "rows": 1
+    },
+    {
+      "id": "z1772250561608",
+      "name": "기둥",
+      "prod": "기둥",
+      "type": "오픈냉장",
+      "pri": "",
+      "note": "",
+      "color": "cpillar",
+      "col": 8,
+      "row": 9,
+      "cols": 2,
+      "rows": 1
+    },
+    {
+      "id": "z1772250634834",
+      "name": "기둥",
+      "prod": "기둥",
+      "type": "오픈냉장",
+      "pri": "",
+      "note": "",
+      "color": "cpillar",
+      "col": 18,
+      "row": 9,
+      "cols": 2,
+      "rows": 1
+    },
+    {
+      "id": "z1772250847046",
+      "name": "기둥",
+      "prod": "기둥",
+      "type": "오픈냉장",
+      "pri": "",
+      "note": "",
+      "color": "cpillar",
+      "col": 0,
+      "row": 8,
+      "cols": 1,
+      "rows": 2
+    }
+  ],
+  "userOverrides": {
+    "W04": {
+      "찰토마토__벌크": {
+        "prod": "하우스감귤박스",
+        "status": "confirmed",
+        "note": "강서W04연동"
+      },
+      "과일청___과일주스___채소": {
+        "prod": "만감류",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "딸기500g_특": {
+        "prod": "블루베리",
+        "status": "planned",
+        "note": "강서W04연동"
+      },
+      "스테비아__대추방울_토마토": {
+        "prod": "하우스감귤박스",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "오렌지__벌크": {
+        "prod": "만감류",
+        "status": "planned",
+        "note": "강서W04연동"
+      },
+      "왕_딸기_1kg": {
+        "prod": "딸기",
+        "status": "planned",
+        "note": "강서W04연동"
+      },
+      "샤인머스켓__송이": {
+        "prod": "샤인머스켓",
+        "status": "planned",
+        "note": "강서W04연동"
+      },
+      "생_블루베리__510g_31": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "강서W04연동"
+      },
+      "냉동과일_야채": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "만감류__박스": {
+        "prod": "만감류벌크",
+        "status": "planned",
+        "note": "강서W04연동"
+      },
+      "대보름_모음전": {
+        "prod": "만감류",
+        "status": "planned",
+        "note": "강서W04연동"
+      }
+    },
+    "W01": {
+      "냉동과일_야채": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "생_블루베리__510g_31": {
+        "prod": "사과벌크",
+        "status": "planned",
+        "note": "강서W01연동"
+      },
+      "샤인머스켓__송이": {
+        "prod": "샤인머스켓",
+        "status": "planned",
+        "note": "강서W01연동"
+      },
+      "왕_딸기_1kg": {
+        "prod": "딸기",
+        "status": "planned",
+        "note": "강서W01연동"
+      },
+      "스테비아__대추방울_토마토": {
+        "prod": "토마토벌크",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "과일청___과일주스___채소": {
+        "prod": "만감류",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "오렌지__벌크": {
+        "prod": "하우스감귤박스",
+        "status": "planned",
+        "note": "강서W01연동"
+      },
+      "딸기500g_특": {
+        "prod": "블루베리",
+        "status": "planned",
+        "note": "강서W01연동"
+      },
+      "찰토마토__벌크": {
+        "prod": "토마토벌크",
+        "status": "confirmed",
+        "note": "강서W01연동"
+      },
+      "스위트__마운틴": {
+        "prod": "스위트마운틴바나나",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "씨제이": {
+        "prod": "수산",
+        "status": "planned",
+        "note": ""
+      },
+      "스위티오_감숙왕_유기농": {
+        "prod": "유기농",
+        "status": "planned",
+        "note": ""
+      },
+      "컵과일_소스류_고급과일": {
+        "prod": "건식",
+        "status": "planned",
+        "note": ""
+      },
+      "만감류__박스": {
+        "prod": "만감류벌크",
+        "status": "planned",
+        "note": "강서W01연동"
+      },
+      "대보름_모음전": {
+        "prod": "만감류",
+        "status": "planned",
+        "note": "강서W01연동"
+      }
+    },
+    "W05": {
+      "냉동과일_야채": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "샤인머스켓__송이": {
+        "prod": "샤인머스켓",
+        "status": "planned",
+        "note": "강서W05연동"
+      },
+      "딸기500g_특": {
+        "prod": "블루베리",
+        "status": "planned",
+        "note": "강서W05연동"
+      },
+      "생_블루베리__510g_31": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "강서W05연동"
+      },
+      "스테비아__대추방울_토마토": {
+        "prod": "하우스감귤박스",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "찰토마토__벌크": {
+        "prod": "하우스감귤박스",
+        "status": "confirmed",
+        "note": "강서W05연동"
+      },
+      "오렌지__벌크": {
+        "prod": "만감류",
+        "status": "planned",
+        "note": "강서W05연동"
+      },
+      "만감류__박스": {
+        "prod": "만감류벌크",
+        "status": "planned",
+        "note": "강서W05연동"
+      }
+    },
+    "W02": {
+      "냉동과일_야채": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "오렌지__벌크": {
+        "prod": "하우스감귤박스",
+        "status": "planned",
+        "note": "강서W02연동"
+      },
+      "과일청___과일주스___채소": {
+        "prod": "만감류",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "딸기500g_특": {
+        "prod": "블루베리",
+        "status": "planned",
+        "note": "강서W02연동"
+      },
+      "찰토마토__벌크": {
+        "prod": "토마토벌크",
+        "status": "confirmed",
+        "note": "강서W02연동"
+      },
+      "왕_딸기_1kg": {
+        "prod": "딸기",
+        "status": "planned",
+        "note": "강서W02연동"
+      },
+      "샤인머스켓__송이": {
+        "prod": "샤인머스켓",
+        "status": "planned",
+        "note": "강서W02연동"
+      },
+      "생_블루베리__510g_31": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": "강서W02연동"
+      },
+      "스테비아__대추방울_토마토": {
+        "prod": "스테비아/대추방울 토마토",
+        "status": "confirmed",
+        "note": "강서W02연동"
+      },
+      "스위트__마운틴": {
+        "prod": "스위트마운틴바나나",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "실속배": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "영주사과": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "못난이__사과__벌크": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "못난이__사과__벌크_2": {
+        "prod": "★설선물세트",
+        "status": "confirmed",
+        "note": "박스 고정"
+      },
+      "신고배__벌크": {
+        "prod": "★설선물세트",
+        "status": "confirmed",
+        "note": "박스 고정"
+      },
+      "단감_특": {
+        "prod": "★설선물세트",
+        "status": "confirmed",
+        "note": "박스 고정"
+      },
+      "머쉬마루_2_990": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "맛타리버섯_1_590": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "팽이_590": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "새송이_1_590": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "풀무원": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "엽채류_나물투데이": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "참외_봉": {
+        "prod": "스테비아/대추방울 토마토",
+        "status": "confirmed",
+        "note": "수입과일 고정"
+      },
+      "만감류__박스": {
+        "prod": "만감류벌크",
+        "status": "planned",
+        "note": "강서W02연동"
+      },
+      "대보름_모음전": {
+        "prod": "만감류",
+        "status": "planned",
+        "note": "강서W02연동"
+      }
+    },
+    "W03": {
+      "냉동과일_야채": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "샤인머스켓__송이": {
+        "prod": "샤인머스켓",
+        "status": "planned",
+        "note": "강서W03연동"
+      },
+      "찰토마토__벌크": {
+        "prod": "토마토벌크",
+        "status": "confirmed",
+        "note": "강서W03연동"
+      },
+      "못난이__사과__벌크_2": {
+        "prod": "★설선물세트",
+        "status": "confirmed",
+        "note": "박스 고정"
+      },
+      "신고배__벌크": {
+        "prod": "★설선물세트",
+        "status": "confirmed",
+        "note": "박스 고정"
+      },
+      "단감_특": {
+        "prod": "★설선물세트",
+        "status": "confirmed",
+        "note": "박스 고정"
+      },
+      "실속배": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "영주사과": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "못난이__사과__벌크": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "머쉬마루_2_990": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "맛타리버섯_1_590": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "팽이_590": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "새송이_1_590": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "풀무원": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "엽채류_나물투데이": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": ""
+      },
+      "참외_봉": {
+        "prod": "스테비아/대추방울 토마토",
+        "status": "confirmed",
+        "note": "수입과일 고정"
+      },
+      "과일청___과일주스___채소": {
+        "prod": "만감류",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "생_블루베리__510g_31": {
+        "prod": "★설선물세트",
+        "status": "planned",
+        "note": "강서W03연동"
+      },
+      "스테비아__대추방울_토마토": {
+        "prod": "스테비아/대추방울 토마토",
+        "status": "confirmed",
+        "note": "강서W03연동"
+      },
+      "오렌지__벌크": {
+        "prod": "만감류벌크",
+        "status": "planned",
+        "note": "2순위"
+      },
+      "딸기500g_특": {
+        "prod": "블루베리",
+        "status": "planned",
+        "note": "강서W03연동"
+      },
+      "만감류__박스": {
+        "prod": "만감류벌크",
+        "status": "planned",
+        "note": "강서W03연동"
+      },
+      "대보름_모음전": {
+        "prod": "만감류",
+        "status": "planned",
+        "note": "강서W03연동"
+      }
+    },
+    "W06": {
+      "냉동과일_야채": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "찰토마토__벌크": {
+        "prod": "하우스감귤박스",
+        "status": "confirmed",
+        "note": "강서W06연동"
+      },
+      "샤인머스켓__송이": {
+        "prod": "샤인머스켓",
+        "status": "planned",
+        "note": "강서W06연동"
+      },
+      "생_블루베리__510g_31": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "강서W06연동"
+      },
+      "과일청___과일주스___채소": {
+        "prod": "",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "오렌지__벌크": {
+        "prod": "만감류",
+        "status": "planned",
+        "note": "강서W06연동"
+      },
+      "딸기500g_특": {
+        "prod": "블루베리",
+        "status": "planned",
+        "note": "강서W06연동"
+      },
+      "스테비아__대추방울_토마토": {
+        "prod": "하우스감귤박스",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "만감류__박스": {
+        "prod": "만감류벌크",
+        "status": "planned",
+        "note": "강서W06연동"
+      },
+      "대보름_모음전": {
+        "prod": "만감류",
+        "status": "planned",
+        "note": "강서W06연동"
+      }
+    },
+    "W09": {
+      "냉동과일_야채": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "대보름_모음전": {
+        "prod": "만감류박스",
+        "status": "planned",
+        "note": "강서W09연동"
+      },
+      "찰토마토__벌크": {
+        "prod": "",
+        "status": "confirmed",
+        "note": "강서W09연동"
+      },
+      "과일청___과일주스___채소": {
+        "prod": "",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "오렌지__벌크": {
+        "prod": "하우스감귤박스",
+        "status": "planned",
+        "note": "강서W09연동"
+      },
+      "딸기500g_특": {
+        "prod": "블루베리",
+        "status": "planned",
+        "note": "강서W09연동"
+      },
+      "샤인머스켓__송이": {
+        "prod": "샤인머스켓",
+        "status": "planned",
+        "note": "강서W09연동"
+      },
+      "스테비아__대추방울_토마토": {
+        "prod": "",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "생_블루베리__510g_31": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "강서W09연동"
+      },
+      "만감류__박스": {
+        "prod": "오렌지",
+        "status": "planned",
+        "note": "강서W09연동"
+      }
+    },
+    "W08": {
+      "냉동과일_야채": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": ""
+      },
+      "대보름_모음전": {
+        "prod": "만감류박스",
+        "status": "planned",
+        "note": "강서W08연동"
+      },
+      "찰토마토__벌크": {
+        "prod": "만감류벌크",
+        "status": "planned",
+        "note": "강서W08연동"
+      },
+      "과일청___과일주스___채소": {
+        "prod": "만감류박스",
+        "status": "planned",
+        "note": ""
+      },
+      "딸기500g_특": {
+        "prod": "블루베리",
+        "status": "confirmed",
+        "note": "강서W08연동"
+      },
+      "샤인머스켓__송이": {
+        "prod": "샤인머스켓",
+        "status": "confirmed",
+        "note": "강서W08연동"
+      },
+      "스테비아__대추방울_토마토": {
+        "prod": "만감류벌크",
+        "status": "planned",
+        "note": ""
+      },
+      "생_블루베리__510g_31": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "강서W08연동"
+      },
+      "오렌지__벌크": {
+        "prod": "하우스감귤박스",
+        "status": "confirmed",
+        "note": "강서W08연동"
+      }
+    },
+    "W10": {
+      "냉동과일_야채": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "대보름_모음전": {
+        "prod": "오렌지 (벌크)",
+        "status": "planned",
+        "note": "강서W10연동"
+      },
+      "샤인머스켓__송이": {
+        "prod": "샤인머스켓",
+        "status": "planned",
+        "note": "강서W10연동"
+      },
+      "오렌지__벌크": {
+        "prod": "만감류",
+        "status": "planned",
+        "note": "강서W10연동"
+      },
+      "과일청___과일주스___채소": {
+        "prod": "",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "딸기500g_특": {
+        "prod": "블루베리",
+        "status": "planned",
+        "note": "강서W10연동"
+      },
+      "찰토마토__벌크": {
+        "prod": "",
+        "status": "confirmed",
+        "note": "강서W10연동"
+      },
+      "스테비아__대추방울_토마토": {
+        "prod": "",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "생_블루베리__510g_31": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "강서W10연동"
+      },
+      "만감류__박스": {
+        "prod": "컷팅과일",
+        "status": "planned",
+        "note": "강서W10연동"
+      },
+      "대보름_모음전_2": {
+        "prod": "오렌지",
+        "status": "planned",
+        "note": ""
+      },
+      "대보름_모음전_3": {
+        "prod": "오렌지",
+        "status": "planned",
+        "note": ""
+      }
+    },
+    "W07": {
+      "냉동과일_야채": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "찰토마토__벌크": {
+        "prod": "하우스감귤박스",
+        "status": "confirmed",
+        "note": "강서W07연동"
+      },
+      "샤인머스켓__송이": {
+        "prod": "샤인머스켓",
+        "status": "planned",
+        "note": "강서W07연동"
+      },
+      "생_블루베리__510g_31": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "강서W07연동"
+      },
+      "과일청___과일주스___채소": {
+        "prod": "만감류",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "딸기500g_특": {
+        "prod": "블루베리",
+        "status": "planned",
+        "note": "강서W07연동"
+      },
+      "오렌지__벌크": {
+        "prod": "만감류",
+        "status": "planned",
+        "note": "강서W07연동"
+      },
+      "스테비아__대추방울_토마토": {
+        "prod": "하우스감귤박스",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "만감류__박스": {
+        "prod": "만감류벌크",
+        "status": "planned",
+        "note": "강서W07연동"
+      },
+      "대보름_모음전": {
+        "prod": "만감류",
+        "status": "planned",
+        "note": "강서W07연동"
+      }
+    },
+    "W11": {
+      "샤인머스켓__송이": {
+        "prod": "샤인머스켓",
+        "status": "planned",
+        "note": "강서W11연동"
+      },
+      "오렌지__벌크": {
+        "prod": "만감류",
+        "status": "planned",
+        "note": "강서W11연동"
+      },
+      "과일청___과일주스___채소": {
+        "prod": "",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "딸기500g_특": {
+        "prod": "블루베리",
+        "status": "planned",
+        "note": "강서W11연동"
+      },
+      "대보름_모음전": {
+        "prod": "오렌지 (벌크)",
+        "status": "planned",
+        "note": "강서W11연동"
+      },
+      "스테비아__대추방울_토마토": {
+        "prod": "",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "생_블루베리__510g_31": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "강서W11연동"
+      },
+      "찰토마토__벌크": {
+        "prod": "",
+        "status": "confirmed",
+        "note": "강서W11연동"
+      },
+      "냉동과일_야채": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "만감류__박스": {
+        "prod": "컷팅과일",
+        "status": "planned",
+        "note": "강서W11연동"
+      },
+      "대보름_모음전_2": {
+        "prod": "오렌지",
+        "status": "planned",
+        "note": ""
+      },
+      "대보름_모음전_3": {
+        "prod": "오렌지",
+        "status": "planned",
+        "note": ""
+      }
+    },
+    "W12": {
+      "샤인머스켓__송이": {
+        "prod": "오렌지(박스)",
+        "status": "planned",
+        "note": "강서W12연동"
+      },
+      "찰토마토__벌크": {
+        "prod": "",
+        "status": "confirmed",
+        "note": "강서W12연동"
+      },
+      "딸기500g_특": {
+        "prod": "오렌지",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "과일청___과일주스___채소": {
+        "prod": "",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "스테비아__대추방울_토마토": {
+        "prod": "",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "냉동과일_야채": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "왕_딸기_1kg": {
+        "prod": "카라카라오렌지(벌크)",
+        "status": "planned",
+        "note": ""
+      },
+      "생_블루베리__510g_31": {
+        "prod": "오랜지",
+        "status": "planned",
+        "note": "강서W12연동"
+      },
+      "참외_봉": {
+        "prod": "오렌지(박스)",
+        "status": "planned",
+        "note": ""
+      },
+      "대보름_모음전": {
+        "prod": "딸기",
+        "status": "planned",
+        "note": "강서W12연동"
+      },
+      "대보름_모음전_3": {
+        "prod": "딸기",
+        "status": "planned",
+        "note": ""
+      },
+      "대보름_모음전_2": {
+        "prod": "샤인머스캣",
+        "status": "planned",
+        "note": ""
+      },
+      "오렌지__벌크": {
+        "prod": "하우스감귤(박스)",
+        "status": "planned",
+        "note": "강서W12연동"
+      },
+      "만감류__박스": {
+        "prod": "컷팅과일",
+        "status": "planned",
+        "note": ""
+      }
+    },
+    "W13": {
+      "스테비아__대추방울_토마토": {
+        "prod": "",
+        "status": "confirmed",
+        "note": "강서W13연동"
+      },
+      "찰토마토__벌크": {
+        "prod": "",
+        "status": "confirmed",
+        "note": "강서W13연동"
+      },
+      "참외_봉": {
+        "prod": "오렌지(박스)",
+        "status": "confirmed",
+        "note": "수입과일 고정"
+      },
+      "딸기500g_특": {
+        "prod": "오렌지",
+        "status": "planned",
+        "note": "2순위 서브"
+      },
+      "과일청___과일주스___채소": {
+        "prod": "",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "냉동과일_야채": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "샤인머스켓__송이": {
+        "prod": "오렌지(박스)",
+        "status": "planned",
+        "note": "강서W13연동"
+      },
+      "오렌지__벌크": {
+        "prod": "하우스감귤(박스)",
+        "status": "planned",
+        "note": "강서W13연동"
+      },
+      "왕_딸기_1kg": {
+        "prod": "카라카라오렌지(벌크)",
+        "status": "planned",
+        "note": ""
+      },
+      "생_블루베리__510g_31": {
+        "prod": "오랜지",
+        "status": "planned",
+        "note": "강서W13연동"
+      },
+      "대보름_모음전": {
+        "prod": "딸기",
+        "status": "planned",
+        "note": "강서W13연동"
+      },
+      "대보름_모음전_3": {
+        "prod": "딸기",
+        "status": "planned",
+        "note": ""
+      },
+      "대보름_모음전_2": {
+        "prod": "샤인머스캣",
+        "status": "planned",
+        "note": ""
+      },
+      "만감류__박스": {
+        "prod": "컷팅과일",
+        "status": "planned",
+        "note": ""
+      }
+    },
+    "W14": {
+      "찰토마토__벌크": {
+        "prod": "",
+        "status": "confirmed",
+        "note": "강서W14연동"
+      },
+      "스테비아__대추방울_토마토": {
+        "prod": "",
+        "status": "confirmed",
+        "note": "강서W14연동"
+      },
+      "딸기500g_특": {
+        "prod": "참외(봉)",
+        "status": "planned",
+        "note": "강서W14연동"
+      },
+      "과일청___과일주스___채소": {
+        "prod": "",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "참외_봉": {
+        "prod": "참외(박스)",
+        "status": "confirmed",
+        "note": "수입과일 고정"
+      },
+      "냉동과일_야채": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "샤인머스켓__송이": {
+        "prod": "참외(박스)",
+        "status": "planned",
+        "note": "강서W14연동"
+      },
+      "대보름_모음전": {
+        "prod": "오렌지(벌크)",
+        "status": "planned",
+        "note": "강서W14연동"
+      },
+      "대보름_모음전_2": {
+        "prod": "오렌지",
+        "status": "planned",
+        "note": ""
+      },
+      "대보름_모음전_3": {
+        "prod": "오렌지",
+        "status": "planned",
+        "note": ""
+      },
+      "왕_딸기_1kg": {
+        "prod": "참외(벌크)",
+        "status": "planned",
+        "note": "강서W14연동"
+      },
+      "생_블루베리__510g_31": {
+        "prod": "참외(봉)",
+        "status": "planned",
+        "note": "강서W14연동"
+      },
+      "오렌지__벌크": {
+        "prod": "수입포도",
+        "status": "planned",
+        "note": "강서W14연동"
+      },
+      "만감류__박스": {
+        "prod": "컷팅과일",
+        "status": "planned",
+        "note": "강서W14연동"
+      }
+    },
+    "W15": {
+      "찰토마토__벌크": {
+        "prod": "",
+        "status": "confirmed",
+        "note": "강서W15연동"
+      },
+      "스테비아__대추방울_토마토": {
+        "prod": "",
+        "status": "confirmed",
+        "note": "강서W15연동"
+      },
+      "과일청___과일주스___채소": {
+        "prod": "",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "참외_봉": {
+        "prod": "참외(박스)",
+        "status": "confirmed",
+        "note": "수입과일 고정"
+      },
+      "딸기500g_특": {
+        "prod": "참외(봉)",
+        "status": "planned",
+        "note": "강서W15연동"
+      },
+      "냉동과일_야채": {
+        "prod": "냉동과일/냉동채소",
+        "status": "confirmed",
+        "note": "52주 고정"
+      },
+      "샤인머스켓__송이": {
+        "prod": "참외(박스)",
+        "status": "planned",
+        "note": "강서W15연동"
+      },
+      "오렌지__벌크": {
+        "prod": "수입포도",
+        "status": "planned",
+        "note": "강서W15연동"
+      },
+      "대보름_모음전": {
+        "prod": "오렌지(벌크)",
+        "status": "planned",
+        "note": "강서W15연동"
+      },
+      "대보름_모음전_2": {
+        "prod": "오렌지",
+        "status": "planned",
+        "note": ""
+      },
+      "대보름_모음전_3": {
+        "prod": "오렌지",
+        "status": "planned",
+        "note": ""
+      },
+      "왕_딸기_1kg": {
+        "prod": "참외(벌크)",
+        "status": "planned",
+        "note": "강서W15연동"
+      },
+      "생_블루베리__510g_31": {
+        "prod": "참외(봉)",
+        "status": "planned",
+        "note": "강서W15연동"
+      },
+      "만감류__박스": {
+        "prod": "컷팅과일",
+        "status": "planned",
+        "note": "강서W15연동"
+      }
+    },
+    "W16": {
+      "찰토마토__벌크": {
+        "prod": "",
+        "status": "confirmed",
+        "note": "강서W16연동"
+      },
+      "스테비아__대추방울_토마토": {
+        "prod": "",
+        "status": "confirmed",
+        "note": "강서W16연동"
+      },
+      "왕_딸기_1kg": {
+        "prod": "참외(벌크)",
+        "status": "planned",
+        "note": "강서W16연동"
+      },
+      "생_블루베리__510g_31": {
+        "prod": "참외(봉)",
+        "status": "planned",
+        "note": "강서W16연동"
+      },
+      "오렌지__벌크": {
+        "prod": "수입포도",
+        "status": "planned",
+        "note": "강서W16연동"
+      },
+      "딸기500g_특": {
+        "prod": "참외(봉)",
+        "status": "planned",
+        "note": "강서W16연동"
+      },
+      "참외_봉": {
+        "prod": "참외(박스)",
+        "status": "confirmed",
+        "note": "수입과일 고정"
+      },
+      "과일청___과일주스___채소": {
+        "prod": "",
+        "status": "planned",
+        "note": "3순위"
+      },
+      "만감류__박스": {
+        "prod": "컷팅과일",
+        "status": "planned",
+        "note": "강서W16연동"
+      },
+      "대보름_모음전": {
+        "prod": "오렌지(벌크)",
+        "status": "planned",
+        "note": "강서W16연동"
+      },
+      "대보름_모음전_2": {
+        "prod": "오렌지",
+        "status": "planned",
+        "note": ""
+      },
+      "대보름_모음전_3": {
+        "prod": "오렌지",
+        "status": "planned",
+        "note": ""
+      },
+      "샤인머스켓__송이": {
+        "prod": "참외(박스)",
+        "status": "planned",
+        "note": ""
+      },
+      "냉동과일_야채": {
+        "prod": "냉동과일/냉동채소",
+        "status": "planned",
+        "note": ""
+      }
+    },
+    "W17": {
+      "찰토마토__벌크": {
+        "prod": "",
+        "status": "confirmed",
+        "note": ""
+      },
+      "왕_딸기_1kg": {
+        "prod": "참외(벌크)",
+        "status": "planned",
+        "note": "강서W17연동"
+      },
+      "생_블루베리__510g_31": {
+        "prod": "참외(봉)",
+        "status": "planned",
+        "note": "강서W17연동"
+      },
+      "오렌지__벌크": {
+        "prod": "수입포도",
+        "status": "planned",
+        "note": "강서W17연동"
+      },
+      "딸기500g_특": {
+        "prod": "참외(봉)",
+        "status": "planned",
+        "note": "강서W17연동"
+      },
+      "스테비아__대추방울_토마토": {
+        "prod": "",
+        "status": "confirmed",
+        "note": ""
+      },
+      "참외_봉": {
+        "prod": "참외(박스)",
+        "status": "confirmed",
+        "note": "수입과일 고정"
+      },
+      "만감류__박스": {
+        "prod": "컷팅과일",
+        "status": "planned",
+        "note": "강서W17연동"
+      },
+      "과일청___과일주스___채소": {
+        "prod": "",
+        "status": "planned",
+        "note": ""
+      },
+      "샤인머스켓__송이": {
+        "prod": "참외(박스)",
+        "status": "planned",
+        "note": ""
+      },
+      "대보름_모음전": {
+        "prod": "오렌지(벌크)",
+        "status": "planned",
+        "note": ""
+      },
+      "대보름_모음전_2": {
+        "prod": "오렌지",
+        "status": "planned",
+        "note": ""
+      },
+      "대보름_모음전_3": {
+        "prod": "오렌지",
+        "status": "planned",
+        "note": ""
+      },
+      "냉동과일_야채": {
+        "prod": "냉동과일/냉동채소",
+        "status": "planned",
+        "note": ""
+      }
+    },
+    "W18": {
+      "찰토마토__벌크": {
+        "prod": "",
+        "status": "confirmed",
+        "note": "강서W18연동"
+      },
+      "참외_봉": {
+        "prod": "참외(박스)",
+        "status": "confirmed",
+        "note": "수입과일 고정"
+      },
+      "딸기500g_특": {
+        "prod": "참외(봉)",
+        "status": "planned",
+        "note": "강서W18연동"
+      },
+      "오렌지__벌크": {
+        "prod": "수입포도",
+        "status": "planned",
+        "note": "강서W18연동"
+      },
+      "스테비아__대추방울_토마토": {
+        "prod": "",
+        "status": "confirmed",
+        "note": "강서W18연동"
+      },
+      "왕_딸기_1kg": {
+        "prod": "참외(벌크)",
+        "status": "planned",
+        "note": "강서W18연동"
+      },
+      "생_블루베리__510g_31": {
+        "prod": "참외(봉)",
+        "status": "planned",
+        "note": "강서W18연동"
+      },
+      "만감류__박스": {
+        "prod": "컷팅과일",
+        "status": "planned",
+        "note": "강서W18연동"
+      },
+      "과일청___과일주스___채소": {
+        "prod": "",
+        "status": "planned",
+        "note": ""
+      },
+      "대보름_모음전": {
+        "prod": "오렌지(벌크)",
+        "status": "planned",
+        "note": ""
+      },
+      "대보름_모음전_2": {
+        "prod": "오렌지",
+        "status": "planned",
+        "note": ""
+      },
+      "대보름_모음전_3": {
+        "prod": "오렌지",
+        "status": "planned",
+        "note": ""
+      },
+      "샤인머스켓__송이": {
+        "prod": "참외(박스)",
+        "status": "planned",
+        "note": ""
+      },
+      "냉동과일_야채": {
+        "prod": "냉동과일/냉동채소",
+        "status": "planned",
+        "note": ""
+      }
+    },
+    "W19": {
+      "찰토마토__벌크": {
+        "prod": "수입포도",
+        "status": "confirmed",
+        "note": "강서W19연동"
+      },
+      "오렌지__벌크": {
+        "prod": "오렌지",
+        "status": "planned",
+        "note": "강서W19연동"
+      },
+      "딸기500g_특": {
+        "prod": "참외(봉)",
+        "status": "planned",
+        "note": "강서W19연동"
+      },
+      "스테비아__대추방울_토마토": {
+        "prod": "수입포도",
+        "status": "confirmed",
+        "note": "강서W19연동"
+      },
+      "참외_봉": {
+        "prod": "수입포도",
+        "status": "confirmed",
+        "note": "수입과일 고정"
+      },
+      "왕_딸기_1kg": {
+        "prod": "참외(벌크)",
+        "status": "planned",
+        "note": "강서W19연동"
+      },
+      "생_블루베리__510g_31": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "강서W19연동"
+      },
+      "만감류__박스": {
+        "prod": "오렌지(벌크)",
+        "status": "planned",
+        "note": "강서W19연동"
+      }
+    },
+    "W20": {
+      "찰토마토__벌크": {
+        "prod": "수입포도",
+        "status": "confirmed",
+        "note": "강서W20연동"
+      },
+      "스테비아__대추방울_토마토": {
+        "prod": "수입포도",
+        "status": "confirmed",
+        "note": "강서W20연동"
+      },
+      "참외_봉": {
+        "prod": "수입포도",
+        "status": "confirmed",
+        "note": "수입과일 고정"
+      },
+      "왕_딸기_1kg": {
+        "prod": "참외(벌크)",
+        "status": "planned",
+        "note": "강서W20연동"
+      },
+      "생_블루베리__510g_31": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "강서W20연동"
+      },
+      "샤인머스켓__송이": {
+        "prod": "참외 박스",
+        "status": "planned",
+        "note": "강서W20연동"
+      },
+      "오렌지__벌크": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "강서W20연동"
+      },
+      "딸기500g_특": {
+        "prod": "참외(봉)",
+        "status": "planned",
+        "note": "강서W20연동"
+      },
+      "만감류__박스": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "강서W20연동"
+      },
+      "대보름_모음전": {
+        "prod": "체리/애플망고",
+        "status": "planned",
+        "note": "강서W20연동"
+      }
+    },
+    "W21": {
+      "왕_딸기_1kg": {
+        "prod": "참외(벌크)",
+        "status": "planned",
+        "note": "강서W21연동"
+      },
+      "생_블루베리__510g_31": {
+        "prod": "토마토벌크",
+        "status": "planned",
+        "note": "강서W21연동"
+      },
+      "스테비아__대추방울_토마토": {
+        "prod": "수입포도",
+        "status": "confirmed",
+        "note": "강서W21연동"
+      },
+      "참외_봉": {
+        "prod": "수입포도",
+        "status": "confirmed",
+        "note": "수입과일 고정"
+      },
+      "찰토마토__벌크": {
+        "prod": "수입포도",
+        "status": "confirmed",
+        "note": "강서W21연동"
+      },
+      "딸기500g_특": {
+        "prod": "참외(봉)",
+        "status": "planned",
+        "note": "강서W21연동"
+      },
+      "만감류__박스": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "강서W21연동"
+      },
+      "오렌지__벌크": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "강서W21연동"
+      },
+      "대보름_모음전": {
+        "prod": "체리/애플망고",
+        "status": "planned",
+        "note": "강서W21연동"
+      }
+    },
+    "W22": {
+      "스테비아__대추방울_토마토": {
+        "prod": "수입포도",
+        "status": "confirmed",
+        "note": "강서W22연동"
+      },
+      "참외_봉": {
+        "prod": "수입포도",
+        "status": "confirmed",
+        "note": "수입과일 고정"
+      },
+      "왕_딸기_1kg": {
+        "prod": "참외(벌크)",
+        "status": "planned",
+        "note": "강서W22연동"
+      },
+      "딸기500g_특": {
+        "prod": "참외(봉)",
+        "status": "planned",
+        "note": "강서W22연동"
+      },
+      "만감류__박스": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "강서W22연동"
+      },
+      "오렌지__벌크": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "강서W22연동"
+      },
+      "대보름_모음전": {
+        "prod": "체리/애플망고",
+        "status": "planned",
+        "note": "강서W22연동"
+      },
+      "찰토마토__벌크": {
+        "prod": "수입포도",
+        "status": "confirmed",
+        "note": "강서W22연동"
+      }
+    },
+    "W23": {
+      "스테비아__대추방울_토마토": {
+        "prod": "스테비아/대추방울 토마토",
+        "status": "confirmed",
+        "note": "강서W23연동"
+      },
+      "참외_봉": {
+        "prod": "수입포도",
+        "status": "confirmed",
+        "note": "수입과일 고정"
+      },
+      "왕_딸기_1kg": {
+        "prod": "참외(벌크)",
+        "status": "planned",
+        "note": "강서W23연동"
+      },
+      "딸기500g_특": {
+        "prod": "참외(봉)",
+        "status": "planned",
+        "note": "강서W23연동"
+      },
+      "만감류__박스": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "강서W23연동"
+      },
+      "오렌지__벌크": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "강서W23연동"
+      },
+      "대보름_모음전": {
+        "prod": "체리/애플망고",
+        "status": "planned",
+        "note": "강서W23연동"
+      },
+      "생_블루베리__510g_31": {
+        "prod": "키위(벌크)",
+        "status": "planned",
+        "note": "강서W23연동"
+      },
+      "찰토마토__벌크": {
+        "prod": "토마토(벌크)",
+        "status": "confirmed",
+        "note": "강서W23연동"
+      }
+    },
+    "W24": {
+      "스테비아__대추방울_토마토": {
+        "prod": "스테비아/대추방울 토마토",
+        "status": "confirmed",
+        "note": "강서W24연동"
+      },
+      "참외_봉": {
+        "prod": "수입포도",
+        "status": "confirmed",
+        "note": "수입과일 고정"
+      },
+      "왕_딸기_1kg": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "강서W24연동"
+      },
+      "딸기500g_특": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "강서W24연동"
+      },
+      "샤인머스켓__송이": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "강서W24연동"
+      },
+      "만감류__박스": {
+        "prod": "참외",
+        "status": "planned",
+        "note": "강서W24연동"
+      },
+      "오렌지__벌크": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": "강서W24연동"
+      },
+      "대보름_모음전": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": "강서W24연동"
+      },
+      "생_블루베리__510g_31": {
+        "prod": "키위(벌크)",
+        "status": "planned",
+        "note": "강서W24연동"
+      },
+      "찰토마토__벌크": {
+        "prod": "토마토(벌크)",
+        "status": "confirmed",
+        "note": "강서W24연동"
+      }
+    },
+    "W25": {
+      "왕_딸기_1kg": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "강서W25연동"
+      },
+      "딸기500g_특": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "강서W25연동"
+      },
+      "샤인머스켓__송이": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "강서W25연동"
+      },
+      "만감류__박스": {
+        "prod": "참외",
+        "status": "planned",
+        "note": "강서W25연동"
+      },
+      "오렌지__벌크": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": "강서W25연동"
+      },
+      "대보름_모음전": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": "강서W25연동"
+      },
+      "생_블루베리__510g_31": {
+        "prod": "키위(벌크)",
+        "status": "planned",
+        "note": "강서W25연동"
+      },
+      "찰토마토__벌크": {
+        "prod": "토마토(벌크)",
+        "status": "confirmed",
+        "note": "강서W25연동"
+      },
+      "스테비아__대추방울_토마토": {
+        "prod": "스테비아/대추방울 토마토",
+        "status": "confirmed",
+        "note": "강서W25연동"
+      }
+    },
+    "W26": {
+      "왕_딸기_1kg": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "강서W26연동"
+      },
+      "딸기500g_특": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "강서W26연동"
+      },
+      "샤인머스켓__송이": {
+        "prod": "수박",
+        "status": "planned",
+        "note": "강서W26연동"
+      },
+      "만감류__박스": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": "강서W26연동"
+      },
+      "오렌지__벌크": {
+        "prod": "복숭아",
+        "status": "planned",
+        "note": "강서W26연동"
+      },
+      "생_블루베리__510g_31": {
+        "prod": "토마토(벌크)",
+        "status": "planned",
+        "note": "강서W26연동"
+      },
+      "찰토마토__벌크": {
+        "prod": "하우스감귤",
+        "status": "confirmed",
+        "note": "강서W26연동"
+      }
+    }
+  },
+  "store": "bd",
+  "savedBy": "박보은",
+  "savedAt": "2026-03-16T07:22:04.742Z"
+}
